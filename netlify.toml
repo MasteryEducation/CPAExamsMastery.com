@@ -9,13 +9,14 @@ command = """\
   hugo --gc -b $URL \
   """
 
+
 [build.environment]
 NODE_VERSION = "23.1.0"
-HUGO_VERSION = "0.139.0"
+HUGO_VERSION = "0.144.2"
 HUGO_ENABLEGITINFO = "true"
 HUGO_ENV = "production"
-GO_VERSION = "1.23.2"
-DART_SASS_VERSION = "1.81.0"
+GO_VERSION = "1.23.5"
+DART_SASS_VERSION = "1.85.0"
 TZ = "America/Toronto"
 
 
