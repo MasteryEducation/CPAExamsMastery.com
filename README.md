@@ -175,11 +175,22 @@ See [LICENSE](LICENSE.md) for more information.
 ## Maintenance Commands
 
     brew upgrade hugo
-    brew upgrade node
-    node --version
-    brew upgrade node
     npm install
     npm update
     hugo mod get -u ./...
     git add -A && git commit -am. && git push
 
+
+### How to install Node.js
+
+NVM installer worked best for me since it uses user home for Node installation (otherwise, location is protected)
+
+https://github.com/nvm-sh/nvm
+
+
+    curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.1/install.sh | bash
+    nvm -v
+
+If you want to install a new version of Node.js and migrate npm packages from a previous version:
+
+    nvm install --reinstall-packages-from=node node
