@@ -1,6 +1,6 @@
 ---
 title: The Auditing and Attestation (AUD CPA) 
-linkTitle: AUD CPA
+linkTitle: AUD
 type: docs
 nav_weight: 3
 menu:
