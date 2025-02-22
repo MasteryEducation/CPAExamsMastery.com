@@ -1,6 +1,8 @@
 ---
-title: The Auditing and Attestation (AUD CPA) 
+title: The Auditing and Attestation (AUD) 
 linkTitle: AUD
+description: |
+  Certified Public Accountant (CPA, AICPA®), Uniform CPA Examination Blueprints (Effective date: January 2025): The Auditing and Attestation (AUD) section
 type: docs
 nav_weight: 3
 menu:
