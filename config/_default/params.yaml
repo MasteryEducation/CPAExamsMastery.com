@@ -1,5 +1,5 @@
 title_separator: '|'
-title_sections: false # when false, remove the sections from the title.
+title_sections: true # when false, remove the sections from the title.
 # title_sections_depth: 1 # the depth of sections on the title.
 # title_sections_depth_dir: start # when start, the depth is counting from the root sections.
 
@@ -36,7 +36,7 @@ hb:
   full_width: true
 
   header:
-    brand: CPAExamsMastery.com
+    brand: CPA Exams Mastery
     socials:
       github: MasteryEducation
       twitter: TokenizerCA
@@ -53,7 +53,7 @@ hb:
   blog:
     sidebar:
       profile:
-        title: CPAExamsMastery.com
+        title: CPA Exams Mastery
       posts:
         recent_count: 0
         featured_count: 0
@@ -104,11 +104,12 @@ hb:
     #https://giscus.app/#repository
     giscus:
       repo: MasteryEducation/CPAExamsMastery.com
-      repo_id: R_kgDONJc1pA
+      repo_id: R_kgDON9vxVQ
       category: Announcements
-      category_id: DIC_kwDONJc1pM4CkJzd
+      category_id: DIC_kwDON9vxVc4CnOT7
       mapping: title
       strict_matching: true
+      strict: true
       input_position: top
       reactions: true
       lazy_loading: true
@@ -129,7 +130,7 @@ pwa:
   manifest:
     background_color: '#712cf9'
     theme_color: '#712cf9'
-    short_name: 'CPAExamsMastery.com'
+    short_name: 'CPA Exams Mastery'
 
 # https://hugomods.com/search/configurations/
 search:

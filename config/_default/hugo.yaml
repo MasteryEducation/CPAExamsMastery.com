@@ -1,7 +1,7 @@
 baseURL: https://CPAExamsMastery.com/
-title: CPAExamsMastery.com
+title: CPA Exams Mastery
 # Copyright, the {year} is the placeholder of this year.
-copyright: "© 2023-{year} [Tokenizer Inc.](https://tokenizer.ca/) | © 2023-{year} [Mastery Education](https://github.com/orgs/MasteryEducation) | All Rights Reserved."
+copyright: "© 2025-{year} [Mastery Education](https://github.com/orgs/MasteryEducation) by [Tokenizer Inc.](https://tokenizer.ca/)| All Rights Reserved."
 defaultContentLanguage: en
 defaultContentLanguageInSubdir: # true # disable this to remove the default language code from URL, i.e. /en/docs -> /docs.
 enableRobotsTXT: true
