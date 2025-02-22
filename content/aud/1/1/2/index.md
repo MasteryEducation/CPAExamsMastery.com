@@ -98,7 +98,7 @@ Below is a simple Mermaid diagram illustrating the key milestones and interactio
 
 ```mermaid
 flowchart TB
-    A(Early Professional<br>Customs & Conventions) --> B(AICPA GAAS<br>(Pre-2002))
+    A("Early Professional<br>Customs & Conventions") --> B("AICPA GAAS<br>(Pre-2002)")
     B --> C(Sarbanes-Oxley Act<br>2002)
     C --> D(PCAOB Established)
     B --> E(Yellow Book by GAO)

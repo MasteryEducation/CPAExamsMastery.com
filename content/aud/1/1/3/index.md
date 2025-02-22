@@ -57,12 +57,9 @@ Below is a visual representation of the relative weighting and flow of the AUD E
 
 ```mermaid
 flowchart TB
-    A[4-Hour Exam] --> B(Multiple-Choice Questions (MCQs)<br>~50% of total score)
-    A --> C(Task-Based Simulations (TBSs)<br>~50% of total score)
-    
-    style A fill:#edf2fa,stroke:#204056,stroke-width:2px
-    style B fill:#f8f9fc,stroke:#204056,stroke-width:2px
-    style C fill:#f8f9fc,stroke:#204056,stroke-width:2px
+    A["4-Hour Exam"] --> B("Multiple-Choice Questions (MCQs)<br>~50% of total score")
+    A --> C("Task-Based Simulations (TBSs)<br>~50% of total score")
+
 ```
 
 • Time Allotment: Although the exam is sectioned into testlets, you have 4 hours in total. You can manage this time across MCQs and TBSs in whichever way suits your test-taking strategy.  
