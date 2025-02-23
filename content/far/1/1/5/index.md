@@ -171,20 +171,13 @@ Below is a Mermaid diagram representing a simplified flow of how to integrate to
 ```mermaid
 flowchart LR
     A[Identify Key FAR Topics] --> B[Plan Weekly Goals]
-    B --> C[Daily Study Blocks (Read & Notes)]
+    B --> C["Daily Study Blocks (Read & Notes)"]
     C --> D[Daily MCQ Practice]
-    D --> E[Weekly Mock Quiz & Review]
+    D --> E["Weekly Mock Quiz <br/>& Review"]
     E --> F[Identify Weak Areas & Revisit]
     F --> B
 ```
 
-Explanation:  
-• A → B: Begin by identifying the main FAR content areas.  
-• B → C: Plan your weekly study goals, including reading and note-taking.  
-• C → D: Incorporate daily practice questions immediately after reading.  
-• D → E: Reserve a weekly quiz or mini mock TBS set.  
-• E → F: Use results to pinpoint gaps and refine your approach.  
-• F → B: Continuous improvement loop—update your plan as needed.
 
 -------------------------------------------------------------------------------
 ### Putting It All Together
