@@ -10,7 +10,7 @@ menu:
     parent: exams
     weight: 3
     params:
-      description: Uniform CPA Examination Blueprints
+      description: Tax Compliance & Planning
 
 # homepage: true
 canonical: "https://securitiesexamsmastery.ca/csc"

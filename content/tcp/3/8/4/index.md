@@ -74,13 +74,12 @@ In formula terms, one simplified way to express current E&P is:
 
 
 {{< katex >}}
-
-\text{Current E\&P}
-= \text{Taxable Income}
-+ (\text{Additions}: \text{non-taxable income, timing adjustments})
-- (\text{Subtractions}: \text{nondeductible expenses, adjustments})
-- \text{Federal Income Tax Liability}
-
+\begin{align*}
+\text{Current E\&P} &= \text{Taxable Income} \\
+&+ (\text{Additions}: \text{non-taxable income, timing adjustments}) \\
+&- (\text{Subtractions}: \text{nondeductible expenses, adjustments}) \\
+&- \text{Federal Income Tax Liability}
+\end{align*}
 {{< /katex >}}
 
 
@@ -94,10 +93,11 @@ Accumulated E&P is the total of all prior year current E&P amounts, minus distri
 
 
 {{< katex >}}
-\text{Ending Accumulated E\&P}
-= \text{Beginning Accumulated E\&P}
-+ \text{Current E\&P for the Year}
-- \text{Distributions Deemed Paid Out of E\&P}
+\begin{align*}
+\text{Ending Accumulated E\&P} &= \text{Beginning Accumulated E\&P} \\
+&+ \text{Current E\&P for the Year} \\
+&- \text{Distributions Deemed Paid Out of E\&P}
+\end{align*}
 {{< /katex >}}
 
 
