@@ -173,7 +173,7 @@ flowchart LR
     A[Identify Key FAR Topics] --> B[Plan Weekly Goals]
     B --> C["Daily Study Blocks (Read & Notes)"]
     C --> D[Daily MCQ Practice]
-    D --> E["Weekly Mock Quiz <br/>& Review"]
+    D --> E["Weekly Mock Quiz & Review"]
     E --> F[Identify Weak Areas & Revisit]
     F --> B
 ```
