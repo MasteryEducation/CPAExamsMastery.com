@@ -29,6 +29,7 @@ I’ve also launched [CPAExamsMastery.com](#) (this website), a free open-source
 Note that the quizzes on CPAExamsMastery.com are mostly MCQs, while the Udemy courses (with 9,000 total questions) are four times more challenging—tougher than the real exam. Canadian CPA courses are on the horizon, so stay tuned. Best of luck on your CPA journey!
 
 _February 23, 2025_
+
 _Fuad Efendi, Founder_
 
 
