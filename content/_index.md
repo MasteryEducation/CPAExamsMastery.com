@@ -13,6 +13,27 @@ license: "© 2023 Tokenizer Inc. CC BY-NC-SA 4.0"
 
 Your all-in-one destination for conquering the 2025 Uniform CPA Examination.
 
+---
+
+Exciting news for all CPA candidates preparing for the exams. I’ve created six comprehensive CPA Mock Exams on Udemy, featuring a total of 9,000 questions—both MCQs and advanced vignette-style scenarios that go beyond real exam requirements. The first 1,000 students receive free access; visit the links below and use the coupon codes:
+
+• AUD: https://www.udemy.com/course/aud-cpa-mock-exams/?couponCode=FREE-AUD-CPA  
+• FAR: https://www.udemy.com/course/far-cpa-mock-exams/?couponCode=FREE-FAR-CPA  
+• REG: https://www.udemy.com/course/reg-cpa-mock-exams/?couponCode=FREE-REG-CPA  
+• BAR: https://www.udemy.com/course/bar-cpa-mock-exams/?couponCode=FREE-BAR-CPA  
+• ISC: https://www.udemy.com/course/isc-cpa-mock-exams/?couponCode=FREE-ISC-CPA  
+• TCP: https://www.udemy.com/course/tcp-cpa-mock-exams/?couponCode=FREE-TCP-CPA  
+
+I’ve also launched [CPAExamsMastery.com](#) (this website), a free open-source platform with six online books (each 600–800+ pages) and over 6,000 quizzes already available. Every page includes ten sample exam questions—completely free. If you’d like to contribute or review, register at GitHub.com, post your comments under each article, and help refine the content. 
+
+Note that the quizzes on CPAExamsMastery.com are mostly MCQs, while the Udemy courses (with 9,000 total questions) are four times more challenging—tougher than the real exam. Canadian CPA courses are on the horizon, so stay tuned. Best of luck on your CPA journey!
+
+_February 23, 2025_
+_Fuad Efendi, Founder_
+
+
+---
+
 ## Why Choose CPAExamsMastery?
 
 At CPAExamsMastery, we understand the challenges of preparing for the revamped 2025 CPA Exam model. Our mission is simple: to empower you with the resources, insights, and structure you need to excel on exam day. Whether you’re tackling the three Core sections (Auditing and Attestation, Financial Accounting and Reporting, and Taxation and Regulation) or one of the new Discipline sections (Business Analysis and Reporting, Information Systems and Controls, or Tax Compliance and Planning), our expertly curated content and proprietary study tools ensure you’re always a step ahead.
