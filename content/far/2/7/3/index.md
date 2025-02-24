@@ -236,7 +236,7 @@ As industries grow more complex and regulatory oversight becomes more rigorous, 
 
 ---
 
-## Quiz on Other Regulatory or Contractual-Basis Financial Statements
+## Quiz: Other Regulatory or Contractual-Basis Financial Statements
 
 {{< quizdown >}}
 

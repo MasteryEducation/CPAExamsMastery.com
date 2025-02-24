@@ -219,7 +219,7 @@ Professionals seeking deeper insights should consult the FASB Codification and c
 
 ---
 
-## Quiz on Pushdown Accounting and Quasi Reorganizations
+## Quiz: Pushdown Accounting and Quasi Reorganizations
 
 {{< quizdown >}}
 

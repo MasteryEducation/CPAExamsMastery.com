@@ -203,7 +203,7 @@ Continue to refine your knowledge by reviewing pertinent Internal Revenue Code s
 
 --------------------------------------------------------------------------------
 
-## Quiz on Corporate Credits and Deductions
+## Quiz: Corporate Credits and Deductions
 
 {{< quizdown >}}
 

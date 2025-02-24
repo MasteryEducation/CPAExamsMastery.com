@@ -136,7 +136,7 @@ This flowchart helps illustrate how an integrated audit may lead to either combi
 
 ---
 
-## Quiz on Reporting Options for Financial Statements and ICFR
+## Quiz: Reporting Options for Financial Statements and ICFR
 
 {{< quizdown >}}
 

@@ -246,7 +246,7 @@ Although Circular 230 is the primary federal-level regulation for tax practition
 
 -----------------------------
 
-## Quiz on Treasury Department Circular 230
+## Quiz: Treasury Department Circular 230
 
 {{< quizdown >}}
 

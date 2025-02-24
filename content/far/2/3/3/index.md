@@ -218,7 +218,7 @@ flowchart TB
 For a deeper understanding of derivatives, hedging, and reclassifications, you may also consider advanced accounting textbooks like “Intermediate Accounting” by Kieso, Weygandt, and Warfield, or specialized courses focusing on complex financial instruments.
 
 -------------------------------------------------------------------------------
-## Quiz on Statement of Comprehensive Income
+## Quiz: Statement of Comprehensive Income
 
 {{< quizdown >}}
 

@@ -245,7 +245,7 @@ For more details on Corporate Income Computation and related corporate-level tax
 
 ---
 
-## Quiz on Choosing Business Entities for Tax Efficiency
+## Quiz: Choosing Business Entities for Tax Efficiency
 
 {{< quizdown >}}
 

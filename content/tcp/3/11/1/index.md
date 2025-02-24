@@ -189,7 +189,7 @@ flowchart TB
 
 -------------------------------------------------------------------------------
 
-## Quiz on §721 Formation, Built-In Gains/Losses & Disguised Sales
+## Quiz: §721 Formation, Built-In Gains/Losses & Disguised Sales
 
 {{< quizdown >}}
 

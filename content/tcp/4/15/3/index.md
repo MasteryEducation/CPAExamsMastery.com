@@ -214,7 +214,7 @@ For deeper knowledge, you may refer back to Chapter 14: Ongoing Planning for C C
 
 ---
 
-## Quiz on S Corp Owner Compensation and Tax Strategy
+## Quiz: S Corp Owner Compensation and Tax Strategy
 
 {{< quizdown >}}
 

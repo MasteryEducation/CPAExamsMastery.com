@@ -232,7 +232,7 @@ Keeping these fundamental principles in mind will help CPAs advise multi-generat
   
 --------------------------------------------------------------------------------
 
-## Quiz on Multi-Entity Family Business Strategies
+## Quiz: Multi-Entity Family Business Strategies
 
 {{< quizdown >}}
 

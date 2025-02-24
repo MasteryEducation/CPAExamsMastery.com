@@ -151,7 +151,7 @@ Looking ahead, expect continued evolution as technology dynamically reshapes the
 
 ---
 
-## Quiz on the Evolution of Auditing Standards: AICPA, PCAOB, and GAO
+## Quiz: the Evolution of Auditing Standards: AICPA, PCAOB, and GAO
 
 {{< quizdown >}}
 

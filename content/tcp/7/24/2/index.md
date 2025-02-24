@@ -159,7 +159,7 @@ This scenario highlights multiple exam-relevant points: the election to expense 
 - Online courses discussing advanced topics in oil and gas taxation (e.g., specialized CPE courses offered by AICPA and state CPA societies).  
 
 -------------------------------------------------------------------------------
-## Quiz on Oil & Gas Taxation (IDCs & Depletion)
+## Quiz: Oil & Gas Taxation (IDCs & Depletion)
 
 {{< quizdown >}}
 

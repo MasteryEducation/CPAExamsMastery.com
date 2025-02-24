@@ -235,7 +235,7 @@ Above is a simplified representation of how information from multiple fund-level
 Learning how to transition balances and results from fund-level statements to government-wide statements – and vice versa – is a critical skill for any finance professional working in the public sector. By methodically tracking capital assets, long-term obligations, and accrual-based revenues and expenses, you ensure the integrity and transparency of governmental financial statements.
 
 --------------------------------------------------------------
-## Quiz on Government-Wide vs. Fund-Level Statements
+## Quiz: Government-Wide vs. Fund-Level Statements
 
 {{< quizdown >}}
 

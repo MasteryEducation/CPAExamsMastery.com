@@ -227,7 +227,7 @@ By adhering to the basic principles of due diligence, comprehensive documentatio
 
 --------------------------------------------------------------------------------
 
-## Quiz on Tax Return Preparer Definitions and Penalties
+## Quiz: Tax Return Preparer Definitions and Penalties
 
 {{< quizdown >}}
 

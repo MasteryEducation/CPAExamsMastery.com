@@ -147,7 +147,7 @@ In analyzing both insights, the successor auditor plans additional substantive t
 
 ---
 
-## Quiz on Effective Communication with Predecessor Auditors
+## Quiz: Effective Communication with Predecessor Auditors
 
 {{< quizdown >}}
 

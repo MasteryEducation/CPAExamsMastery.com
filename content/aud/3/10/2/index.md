@@ -205,7 +205,7 @@ Significant fluctuations in the COGS ratio beyond historical norms or industry a
 
 --------------------------------------------------------------------------------
 
-## Quiz on Purchases, Expenditures, and Payroll Cycles
+## Quiz: Purchases, Expenditures, and Payroll Cycles
 
 {{< quizdown >}}
 

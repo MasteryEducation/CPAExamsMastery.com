@@ -199,7 +199,7 @@ Explanation:
 
 ------------------------------------------------------------------
 
-## Quiz on Statute of Limitations and Filing Deadlines
+## Quiz: Statute of Limitations and Filing Deadlines
 
 {{< quizdown >}}
 

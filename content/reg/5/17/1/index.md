@@ -189,7 +189,7 @@ For instance, Dr. Taylor might have taxable income of $300,000 from the entity (
 
 ---
 
-## Quiz on Partnership and S Corporation Flow-Through Items
+## Quiz: Partnership and S Corporation Flow-Through Items
 
 {{< quizdown >}}
 

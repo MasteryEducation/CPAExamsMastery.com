@@ -197,7 +197,7 @@ The rules governing termination of an agency and their effect on third parties r
 
 -------------------------------------------------------------------------------
 
-## Quiz on Termination of Agency and Impact on Third Parties
+## Quiz: Termination of Agency and Impact on Third Parties
 
 {{< quizdown >}}
 

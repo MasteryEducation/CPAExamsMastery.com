@@ -169,7 +169,7 @@ Entity B compiles a comprehensive matrix of all positions across jurisdictions, 
 These resources can provide additional clarity on how tax law interplay and technical accounting standards come together in uncertain tax positions.
 
   
-## Quiz on Uncertain Tax Positions and Disclosures
+## Quiz: Uncertain Tax Positions and Disclosures
 
 {{< quizdown >}}
 

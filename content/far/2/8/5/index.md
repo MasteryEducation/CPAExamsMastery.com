@@ -206,7 +206,7 @@ The ultimate goal in using non-GAAP measures and non-financial indicators is not
 
 ---
 
-## Quiz on Non-GAAP Measures, Adjusted EBITDA, and Intangible Performance Indicators
+## Quiz: Non-GAAP Measures, Adjusted EBITDA, and Intangible Performance Indicators
 
 {{< quizdown >}}
 

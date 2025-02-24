@@ -126,7 +126,7 @@ Additional relevant frameworks and resources include:
 
 ---
 
-## Quiz on Integrating ESG Risks into the Audit
+## Quiz: Integrating ESG Risks into the Audit
 
 {{< quizdown >}}
 

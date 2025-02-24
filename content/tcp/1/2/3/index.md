@@ -205,7 +205,7 @@ sequenceDiagram
 • Online Courseware: Platforms like Coursera or edX may offer free or low-cost options for additional federal tax law training.
 
 --------------------------------------------------------------------------------
-## Quiz on Judicial Interpretations, Court Hierarchy & Case Precedents
+## Quiz: Judicial Interpretations, Court Hierarchy & Case Precedents
 
 {{< quizdown >}}
 

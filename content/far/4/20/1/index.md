@@ -285,7 +285,7 @@ You may also find detailed coverage of construction contract accounting in Chapt
 
 ---
 
-## Quiz on the Five-Step Model
+## Quiz: the Five-Step Model
 
 {{< quizdown >}}
 

@@ -250,7 +250,7 @@ This structure ensures M shoulders the tax liability from the built-in gain on t
 
 --------------------------------------------------------------------------------
 
-## Quiz on Special Allocations, Guaranteed Payments & §704(b)/(c) Compliance
+## Quiz: Special Allocations, Guaranteed Payments & §704(b)/(c) Compliance
 
 {{< quizdown >}}
 

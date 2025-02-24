@@ -198,7 +198,7 @@ Staying informed, seeking professional advice when needed, and addressing issues
 
 -------------------------------------------------------------------------------
 
-## Quiz on Nonprofit Compliance: Safeguarding Your Tax-Exempt Status
+## Quiz: Nonprofit Compliance: Safeguarding Your Tax-Exempt Status
 
 {{< quizdown >}}
 

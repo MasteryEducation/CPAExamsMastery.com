@@ -205,7 +205,7 @@ In this scenario, the shift from recourse to nonrecourse financing effectively r
 
 --------------------------------------------------------------------------------
 
-## Quiz on Debt Reallocation & At-Risk/Passive Losses
+## Quiz: Debt Reallocation & At-Risk/Passive Losses
 
 {{< quizdown >}}
 

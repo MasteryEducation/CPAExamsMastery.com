@@ -239,7 +239,7 @@ Careful planning ensures you select the best combination of accounts, considerin
 
 -------------------------------------------------------------------------------
 
-## Quiz on HSAs, FSAs, and Retirement Accounts
+## Quiz: HSAs, FSAs, and Retirement Accounts
 
 {{< quizdown >}}
 

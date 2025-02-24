@@ -143,7 +143,7 @@ The U.S. tax system is founded upon a hierarchy of authority that includes the C
 Remember that success in tax hinges on staying informed and agile in response to evolving legislative and administrative changes. Develop a strong research methodology, consult multiple sources, and remain vigilant for potential conflicts among different authorities. Above all, strive for consistent accuracy to uphold the public trust inherent in the accounting profession.
 
   
-## Quiz on U.S. Tax System and Authorities
+## Quiz: U.S. Tax System and Authorities
 
 {{< quizdown >}}
 

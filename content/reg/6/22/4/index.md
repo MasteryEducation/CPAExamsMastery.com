@@ -221,7 +221,7 @@ flowchart TB
 By mastering these rules, candidates will not only navigate the complexities of the Uniform CPA Examination’s Regulation (REG) section but also gain valuable knowledge for real-world practice in fiduciary taxation and estate planning.
 
 -------------------------------------------------------------------------------
-## Quiz on Trust Taxation
+## Quiz: Trust Taxation
 
 {{< quizdown >}}
 

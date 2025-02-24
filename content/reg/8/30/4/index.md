@@ -204,7 +204,7 @@ Before implementing a family partnership strategy, it is advisable to seek guida
 
 ---
 
-## Quiz on Family Partnerships and Complex Structures
+## Quiz: Family Partnerships and Complex Structures
 
 {{< quizdown >}}
 

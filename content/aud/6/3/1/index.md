@@ -179,7 +179,7 @@ When referencing these samples, auditors adapt the wording to the entity’s uni
 
 --------------------------------------------------------------------------------
 
-## Quiz on Auditor’s Opinion Structures
+## Quiz: Auditor’s Opinion Structures
 
 {{< quizdown >}}
 

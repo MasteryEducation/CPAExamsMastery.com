@@ -234,7 +234,7 @@ By merging these two analyses, you gain powerful insights into an entity’s ope
 
 ---
 
-## Quiz on Horizontal and Vertical Analysis
+## Quiz: Horizontal and Vertical Analysis
 
 {{< quizdown >}}
 

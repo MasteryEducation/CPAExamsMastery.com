@@ -147,7 +147,7 @@ flowchart LR
 
 -------------------------------------------------------------------------------
 
-## Quiz on Economic and Market Conditions for Auditors
+## Quiz: Economic and Market Conditions for Auditors
 
 {{< quizdown >}}
 

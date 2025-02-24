@@ -226,7 +226,7 @@ Remaining vigilant regarding the timing, structure, and documentation of distrib
 
 ---
 
-## Quiz on Partnership Distributions, Liquidating Interests & Disguised Sales
+## Quiz: Partnership Distributions, Liquidating Interests & Disguised Sales
 
 {{< quizdown >}}
 

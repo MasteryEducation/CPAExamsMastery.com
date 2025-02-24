@@ -187,7 +187,7 @@ If MNO Partnership has a Section 754 election in place, the partnership makes a 
 
 ---
 
-## Quiz on Partnership and Partner Elections
+## Quiz: Partnership and Partner Elections
 
 {{< quizdown >}}
 

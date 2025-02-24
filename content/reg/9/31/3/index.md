@@ -203,7 +203,7 @@ In this structure:
 
 ---
 
-## Quiz on Multi-Entity Tax Compliance
+## Quiz: Multi-Entity Tax Compliance
 
 {{< quizdown >}}
 

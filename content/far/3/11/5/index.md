@@ -212,7 +212,7 @@ Consider cross-referencing these authoritative sources and professional guides f
 
 ---
 
-## Quiz on Inventory Errors and Adjustments
+## Quiz: Inventory Errors and Adjustments
 
 {{< quizdown >}}
 

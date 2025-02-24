@@ -228,7 +228,7 @@ For real-life practice:
 
 ---
 
-## Quiz on §1031 Like-Kind Exchanges
+## Quiz: §1031 Like-Kind Exchanges
 
 {{< quizdown >}}
 
