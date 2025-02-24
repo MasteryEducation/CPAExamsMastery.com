@@ -215,7 +215,7 @@ Below is a quick-reference table summarizing the key aspects of statutes of limi
 
 This concludes our coverage of the statute of limitations, appeals, and court system within the scope of the IRS examination process. Armed with this knowledge, you will be well-prepared both for real-world tax client interactions and for the Uniform CPA Examination’s Tax Compliance and Planning section.
 
-## SEO-Optimized Quiz: IRS Examinations, Statute of Limitations, and Appeals
+## Quiz: IRS Examinations, Statute of Limitations, and Appeals
 
 {{< quizdown >}}
 

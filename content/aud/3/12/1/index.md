@@ -149,7 +149,7 @@ flowchart LR
 • Schedule of Unadjusted Misstatements (SUM): A working paper detailing all uncorrected misstatements, aiding in evaluation of cumulative impact.
 
 -------------------------------------------------------------------------------
-## SEO-Optimized Quiz: Aggregating Audit Misstatements Quiz
+## Quiz: Aggregating Audit Misstatements Quiz
 
 {{< quizdown >}}
 

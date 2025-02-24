@@ -193,7 +193,7 @@ Had Alpha Co. discovered incomplete records from certain earlier years, it might
 
 –––––––––––––––––––––––––––––––––––––––––––––––––––––
 
-## SEO-Optimized Quiz on Accounting Changes and Applications
+## Quiz on Accounting Changes and Applications
 
 {{< quizdown >}}
 

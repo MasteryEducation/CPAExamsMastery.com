@@ -167,7 +167,7 @@ In your CPA exam preparation, focus on the interplay between these acts, especia
 
 ---
 
-## SEO-Optimized Quiz on Major Acts and Rolling Modifications
+## Quiz on Major Acts and Rolling Modifications
 
 {{< quizdown >}}
 

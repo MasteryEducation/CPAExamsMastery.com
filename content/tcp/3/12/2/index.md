@@ -244,7 +244,7 @@ In a simple trust, DNI essentially mirrors the amount that must be distributed a
 For trust and estate professionals, ongoing changes in tax law and state legislation mean continuous learning is essential. Keep updated on legislative changes and advanced planning opportunities.  
 
 ------------------------------------------------------------------------------
-## SEO-Optimized Fiduciary Accounting & DNI Quiz
+## Fiduciary Accounting & DNI Quiz
 
 {{< quizdown >}}
 

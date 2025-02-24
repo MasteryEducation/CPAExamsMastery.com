@@ -169,7 +169,7 @@ In the broader context of C corporation taxation, consider also reviewing Sectio
 
 --------------------------------------------------------------------------------
 
-## SEO-Optimized Quiz: Mastering Nexus, Apportionment, and Throwback Rules
+## Quiz: Mastering Nexus, Apportionment, and Throwback Rules
 
 {{< quizdown >}}
 

@@ -151,7 +151,7 @@ flowchart LR
 
 -------------------------------------------------------------------------------
 
-## SEO-Optimized Quiz: Mastering Compilation Engagements and Disclaimers
+## Quiz: Mastering Compilation Engagements and Disclaimers
 
 {{< quizdown >}}
 

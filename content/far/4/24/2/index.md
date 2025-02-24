@@ -183,7 +183,7 @@ Professionals must remain vigilant up to the issuance (or available-to-be-issued
 
 _____________________________________________________________________________________
 
-SEO-Optimized Quiz on Disclosure Requirements and Periods Covered
+Quiz on Disclosure Requirements and Periods Covered
 ------------------------------------------------------------------
 
 ## Disclosure Requirements and Subsequent Events Evaluation Quiz

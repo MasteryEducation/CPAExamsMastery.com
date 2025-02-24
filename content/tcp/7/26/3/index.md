@@ -226,7 +226,7 @@ This example shows that while employers can employ multiple credits concurrently
 
 ---
 
-## SEO-Optimized Quiz: Employment Credits Mastery
+## Quiz: Employment Credits Mastery
 
 {{< quizdown >}}
 

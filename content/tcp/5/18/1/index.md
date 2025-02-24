@@ -166,7 +166,7 @@ The above netting flow simply shows that if the taxpayer has prior unrecaptured 
 
 -------------------------------------------------------------------------------
 
-## SEO-Optimized Quiz on §1231 Gains, Characterization, and Lookback
+## Quiz on §1231 Gains, Characterization, and Lookback
 
 {{< quizdown >}}
 

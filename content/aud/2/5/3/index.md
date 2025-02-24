@@ -167,7 +167,7 @@ flowchart LR
 
 ---
 
-## SEO-Optimized Quiz: IT General Controls and Application Controls Essentials
+## Quiz: IT General Controls and Application Controls Essentials
 
 {{< quizdown >}}
 

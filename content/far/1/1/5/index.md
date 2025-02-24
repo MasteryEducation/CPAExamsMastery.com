@@ -193,7 +193,7 @@ Here are the essential takeaways for mastering FAR within your timeframe:
 By applying these principles, you are well on your way to creating an effective and sustainable FAR study strategy.
 
 -------------------------------------------------------------------------------
-## SEO-Optimized Quiz: Master Your FAR Study Timelines
+## Quiz: Master Your FAR Study Timelines
 
 {{< quizdown >}}
 

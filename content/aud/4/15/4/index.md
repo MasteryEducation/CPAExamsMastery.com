@@ -138,7 +138,7 @@ Reporting on summarized financial statements requires careful scrutiny to ensure
 
 --------------------------------------------------------------------------------
 
-## SEO-Optimized Quiz: Summarized Financial Statements Assurance
+## Quiz: Summarized Financial Statements Assurance
 
 {{< quizdown >}}
 

@@ -193,7 +193,7 @@ Explanation:
 
 --------------------------------------------------------------------------------
 
-## SEO-Optimized Quiz: Understanding Tax Implications for Different Entities
+## Quiz: Understanding Tax Implications for Different Entities
 
 {{< quizdown >}}
 

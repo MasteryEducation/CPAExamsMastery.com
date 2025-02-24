@@ -158,7 +158,7 @@ Excessive amounts of overdue accounts might be a signal of:
 
 ---
 
-## SEO-Optimized Quiz: Revenue and Receipts Cycles
+## Quiz: Revenue and Receipts Cycles
 
 {{< quizdown >}}
 

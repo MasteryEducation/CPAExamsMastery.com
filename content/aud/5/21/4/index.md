@@ -182,7 +182,7 @@ flowchart LR
 
 ------------------------------------------------------------------------------
 
-## SEO-Optimized Quiz: Mastering Forensic Litigation Support
+## Quiz: Mastering Forensic Litigation Support
 
 {{< quizdown >}}
 

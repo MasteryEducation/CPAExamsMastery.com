@@ -256,7 +256,7 @@ flowchart LR
 
 ---
 
-## SEO-Optimized Quiz Title: Mastering Profitability Ratios for CPA Exam Success
+## Quiz Title: Mastering Profitability Ratios for CPA Exam Success
 
 {{< quizdown >}}
 

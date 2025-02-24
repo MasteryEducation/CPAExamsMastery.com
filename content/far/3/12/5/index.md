@@ -236,7 +236,7 @@ Explanation of the diagram flow:
 • Deloitte, “A Roadmap to Disposals of Long-Lived Assets and Discontinued Operations”
 
 -------------------------------------------------------------------------------
-## SEO-Optimized Quiz: Assets Held for Sale and Disposal
+## Quiz: Assets Held for Sale and Disposal
 
 {{< quizdown >}}
 

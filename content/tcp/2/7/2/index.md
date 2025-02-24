@@ -258,7 +258,7 @@ Navigating 529 Plans, Coverdell ESAs, and the Student Loan Interest Deduction is
 
 --------------------------------------------------------------------------------
 
-## SEO-Optimized Quiz on Educational Funding (529 Plans, Coverdell ESAs, Student Loan Interest)
+## Quiz on Educational Funding (529 Plans, Coverdell ESAs, Student Loan Interest)
 
 {{< quizdown >}}
 

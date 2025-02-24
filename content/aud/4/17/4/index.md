@@ -148,7 +148,7 @@ flowchart LR
 
 ---
 
-## SEO-Optimized SOC Reporting Quiz: Test Your Knowledge of SOC 1, SOC 2, and SOC 3
+## SOC Reporting Quiz: Test Your Knowledge of SOC 1, SOC 2, and SOC 3
 
 {{< quizdown >}}
 

@@ -305,7 +305,7 @@ By internalizing these rules, you will be well prepared to handle exam questions
 
 --------------------------------------------------------------------------------
 
-## SEO-Optimized Quiz: Mastering S Corporation AAA & Basis
+## Quiz: Mastering S Corporation AAA & Basis
 
 {{< quizdown >}}
 

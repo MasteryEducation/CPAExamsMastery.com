@@ -188,7 +188,7 @@ flowchart LR
 
 ---
 
-## SEO-Optimized Quiz: Employee Benefit Plan Reporting Essentials
+## Quiz: Employee Benefit Plan Reporting Essentials
 
 {{< quizdown >}}
 

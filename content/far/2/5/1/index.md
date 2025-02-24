@@ -249,7 +249,7 @@ Below is a simplified table contrasting key concepts between the two main measur
 In addition, you may consult Chapter 5.2 on Governmental Funds, Proprietary Funds, and Fiduciary Funds for an expanded coverage of specific fund types and their presentations.
 
 ----------------------------------------------------------------------------------------------------
-## SEO-Optimized Quiz: Measurement Focus and Basis of Accounting (State and Local Governments)
+## Quiz: Measurement Focus and Basis of Accounting (State and Local Governments)
 
 {{< quizdown >}}
 

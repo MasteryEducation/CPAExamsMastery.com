@@ -228,7 +228,7 @@ For real-life practice:
 
 ---
 
-## SEO-Optimized Quiz on §1031 Like-Kind Exchanges
+## Quiz on §1031 Like-Kind Exchanges
 
 {{< quizdown >}}
 

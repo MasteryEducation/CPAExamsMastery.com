@@ -242,7 +242,7 @@ No recapture arises because there is no gain. The taxpayer may now capitalize an
 
 ---
 
-## SEO-Optimized Quiz on Depreciation Recapture Rules
+## Quiz on Depreciation Recapture Rules
 
 {{< quizdown >}}
 

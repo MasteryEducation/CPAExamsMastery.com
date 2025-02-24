@@ -146,7 +146,7 @@ For public companies (issuers), the PCAOB sets requirements that may differ slig
 
 --------------------------------------------------------------------------------
 
-## SEO-Optimized Quiz: Comparative Financial Statements & Predecessor Auditor Knowledge
+## Quiz: Comparative Financial Statements & Predecessor Auditor Knowledge
 
 {{< quizdown >}}
 

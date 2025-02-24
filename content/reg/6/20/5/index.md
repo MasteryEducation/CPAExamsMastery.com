@@ -231,7 +231,7 @@ References and Further Reading
 
 –––––––––––––––––––––––––––––––––––––
 
-## SEO-Optimized Quiz: S Corporation Liquidating vs. Nonliquidating Distributions
+## Quiz: S Corporation Liquidating vs. Nonliquidating Distributions
 
 {{< quizdown >}}
 

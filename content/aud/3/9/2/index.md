@@ -123,7 +123,7 @@ As shown, the process is not a one-time event. Any time deviations are discovere
 
 ---
 
-## SEO-Optimized Quiz: Internal Control Deviations and Audit Risk Assessment
+## Quiz: Internal Control Deviations and Audit Risk Assessment
 
 {{< quizdown >}}
 

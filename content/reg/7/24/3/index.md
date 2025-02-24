@@ -210,7 +210,7 @@ Consider also reviewing Chapters 19, 20, and 21 of this guide for more on C corp
 
 ---
 
-## SEO-Optimized Quiz: Shifting Income and Maximizing Basis Recovery
+## Quiz: Shifting Income and Maximizing Basis Recovery
 
 {{< quizdown >}}
 

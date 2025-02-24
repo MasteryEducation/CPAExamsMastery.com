@@ -247,7 +247,7 @@ By understanding and rigorously applying these principles, preparers and users o
 
 --------------------------------------------------------------------------------
 
-## SEO-Optimized Quiz on Equity Investments and the Equity Method
+## Quiz on Equity Investments and the Equity Method
 
 {{< quizdown >}}
 

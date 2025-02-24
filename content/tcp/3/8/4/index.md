@@ -250,7 +250,7 @@ Below is a concise table of common adjustments that affect E&P compared to stand
 • Chapter 14 (Ongoing Planning for C Corporations) for more on distribution timing and shareholder compensation strategies.  
 
 --------------------------------------------------------------------------------
-## SEO-Optimized Quiz on Corporate Earnings & Profits and Dividend Classification
+## Quiz on Corporate Earnings & Profits and Dividend Classification
 
 {{< quizdown >}}
 

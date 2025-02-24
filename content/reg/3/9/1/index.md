@@ -240,7 +240,7 @@ Explanation:
 • Pay attention to the differences in enforcement remedies for secured and unsecured creditors, and how a judgment creditor can collect through garnishment or liens.
 
 -------------------------------------------------------------------------------
-## SEO-Optimized Quiz on Debtor, Creditor, and Guarantor Liabilities
+## Quiz on Debtor, Creditor, and Guarantor Liabilities
 
 {{< quizdown >}}
 

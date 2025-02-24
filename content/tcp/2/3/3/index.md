@@ -167,7 +167,7 @@ Use this table as a baseline reference for exam preparation, ensuring you can ap
 
 Always verify current regulations and annual updates to the IRC, since tax thresholds, AMT exemption amounts, and other provisions are subject to legislative changes.
 
-## SEO-Optimized Quiz: Stock Options, ISOs & NSOs Explained
+## Quiz: Stock Options, ISOs & NSOs Explained
 
 {{< quizdown >}}
 

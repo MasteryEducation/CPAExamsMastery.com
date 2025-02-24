@@ -162,7 +162,7 @@ Below is a sample table illustrating how an auditor’s strategy may shift based
 
 ---
 
-## SEO-Optimized Quiz: Master the Art of Audit Strategy and Risk Response
+## Quiz: Master the Art of Audit Strategy and Risk Response
 
 {{< quizdown >}}
 

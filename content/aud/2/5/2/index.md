@@ -180,7 +180,7 @@ When these signs are present, the likelihood that material misstatement or fraud
 
 --------------------------------------------------------------------------------
 
-## SEO-Optimized Quiz: Mastering Entity-Level Controls and the Control Environment
+## Quiz: Mastering Entity-Level Controls and the Control Environment
 
 {{< quizdown >}}
 

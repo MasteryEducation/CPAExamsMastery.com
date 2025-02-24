@@ -219,7 +219,7 @@ Professionals seeking deeper insights should consult the FASB Codification and c
 
 ---
 
-## SEO-Optimized Quiz on Pushdown Accounting and Quasi Reorganizations
+## Quiz on Pushdown Accounting and Quasi Reorganizations
 
 {{< quizdown >}}
 

@@ -158,7 +158,7 @@ When used in tandem—along with prudent planning, accurate valuations, and lega
 
 ---
 
-## SEO-Optimized Quiz: Lifetime Gifting and Valuation Discounts
+## Quiz: Lifetime Gifting and Valuation Discounts
 
 {{< quizdown >}}
 

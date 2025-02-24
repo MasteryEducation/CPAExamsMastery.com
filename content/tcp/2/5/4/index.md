@@ -265,7 +265,7 @@ In subsequent sections (for instance, see Chapter 6 on Gift Taxation & Strategy 
 
 --------------------------------------------------------------------------------
 
-## SEO-Optimized Quiz: K-1 Allocations in Partnerships & S Corporations
+## Quiz: K-1 Allocations in Partnerships & S Corporations
 
 {{< quizdown >}}
 

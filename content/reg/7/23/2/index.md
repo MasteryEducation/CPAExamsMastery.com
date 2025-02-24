@@ -244,7 +244,7 @@ Still, each situation must be evaluated in totality: corporate-level attributes 
 
 ---
 
-## SEO-Optimized Quiz on Corporate Liquidations vs. Sales of Shares
+## Quiz on Corporate Liquidations vs. Sales of Shares
 
 {{< quizdown >}}
 

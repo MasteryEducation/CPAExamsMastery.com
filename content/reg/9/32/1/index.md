@@ -164,7 +164,7 @@ As you continue your studies and move into practice, remember that staying infor
 
 ---
 
-## SEO-Optimized Quiz: Mastering Primary Tax Law Sources
+## Quiz: Mastering Primary Tax Law Sources
 
 {{< quizdown >}}
 

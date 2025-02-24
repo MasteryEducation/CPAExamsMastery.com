@@ -237,7 +237,7 @@ Explanation: This flow shows the bifurcation between a dividend (ordinary or qua
 
 --------------------------------------------------------------------------------
 
-## SEO-Optimized Quiz: Advanced Shareholder-Corporation Transactions
+## Quiz: Advanced Shareholder-Corporation Transactions
 
 {{< quizdown >}}
 

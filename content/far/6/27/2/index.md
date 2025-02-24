@@ -472,7 +472,7 @@ Resulting new carrying value of the bond = $96,535.80 + $1,584.30 = $98,120.10.
 
 ---
 
-## SEO-Optimized Quiz: Frequently Used Formulas, Ratios, and Journal Entries
+## Quiz: Frequently Used Formulas, Ratios, and Journal Entries
 
 {{< quizdown >}}
 

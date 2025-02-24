@@ -177,7 +177,7 @@ StarTech Manufacturing has operated profitably for many years. Suddenly, due to 
 
 --------------------------------------------------------------------------------
 
-## SEO-Optimized Quiz: Going Concern Evaluation Fundamentals
+## Quiz: Going Concern Evaluation Fundamentals
 
 {{< quizdown >}}
 

@@ -179,7 +179,7 @@ The resulting alignment prevents any potential tax distortion that might arise i
 • AICPA’s Tax Section resource library on partnership taxation  
 
   
-## SEO-Optimized Quiz on Section 754 Elections & Basis Step-Ups
+## Quiz on Section 754 Elections & Basis Step-Ups
 
 {{< quizdown >}}
 

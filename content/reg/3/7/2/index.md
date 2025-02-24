@@ -194,7 +194,7 @@ Understanding these distinctions is paramount for avoiding unintended legal obli
 
 --------------------------------------------------------------------------------
 
-## SEO-Optimized Quiz on Authority of Agents and Principals
+## Quiz on Authority of Agents and Principals
 
 {{< quizdown >}}
 

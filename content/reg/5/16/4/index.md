@@ -173,7 +173,7 @@ Below are some resources to delve deeper:
 Staying current with IRS directives and published rulings is vital; professional responsibilities, as discussed in Chapter 3 (Ethics and Responsibilities in Tax Practice), demand due diligence and informed professional judgment.
 
 --------------------------------------------------------------------------------
-## SEO-Optimized Quiz Title
+## Quiz Title
 
 Maximize Your Understanding: Hobby Losses and Non-Deductible Expenses Quiz
 

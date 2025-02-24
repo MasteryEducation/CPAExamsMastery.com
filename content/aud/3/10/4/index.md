@@ -138,7 +138,7 @@ flowchart TB
 
 ******************************************************************************
 
-## SEO-Optimized Quiz on Auditing Fixed Assets, Depreciation, and Impairment
+## Quiz on Auditing Fixed Assets, Depreciation, and Impairment
 
 {{< quizdown >}}
 

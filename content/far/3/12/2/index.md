@@ -271,7 +271,7 @@ Note: The total depreciation over the asset’s entire life cannot exceed (C –
 
 ---
 
-## SEO-Optimized Quiz on Depreciation Methods & Depletion
+## Quiz on Depreciation Methods & Depletion
 
 {{< quizdown >}}
 

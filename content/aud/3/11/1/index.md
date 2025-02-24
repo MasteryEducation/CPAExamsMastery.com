@@ -176,7 +176,7 @@ A mining company faces a lawsuit over alleged environmental damages. Management 
 
 -------------------------------------------------------------------------------
 
-## SEO-Optimized Quiz: Accounting Estimates, Provisions, and Contingencies
+## Quiz: Accounting Estimates, Provisions, and Contingencies
 
 {{< quizdown >}}
 

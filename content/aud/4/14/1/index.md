@@ -136,7 +136,7 @@ A material weakness once found in ICFR requires the auditor to issue an adverse 
 
 --------------------------------------------------------------------------------
 
-## SEO-Optimized PCAOB Internal Control Quiz: Test Your Knowledge of Issuer Requirements
+## PCAOB Internal Control Quiz: Test Your Knowledge of Issuer Requirements
 
 {{< quizdown >}}
 

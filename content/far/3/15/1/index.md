@@ -203,7 +203,7 @@ Below is a simple table summarizing the typical components of short-term liabili
 
 --------------------------------------------------------------------------------
   
-## SEO-Optimized Quiz: Mastering Short-Term Liabilities and Accruals
+## Quiz: Mastering Short-Term Liabilities and Accruals
 
 {{< quizdown >}}
 

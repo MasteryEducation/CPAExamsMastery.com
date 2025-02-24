@@ -158,7 +158,7 @@ A wealthy individual, Gabriella, establishes a trust naming her child as benefic
 • Advanced estate planning courses on reputable online platforms  
 
 -------------------------------------------------------------------------------
-## SEO-Optimized Quiz: Simple vs. Complex Trusts, Grantor Trust Status
+## Quiz: Simple vs. Complex Trusts, Grantor Trust Status
 
 {{< quizdown >}}
 

@@ -175,7 +175,7 @@ Explanation of Diagram:
 • State-Specific Agency Statutes – Always review local law to confirm foundational agency principles and any specific variances.
 
 --------------------------------------------------------------------------------
-## SEO-Optimized Quiz: Fiduciary Duties and Principal-Agent Liabilities
+## Quiz: Fiduciary Duties and Principal-Agent Liabilities
 
 {{< quizdown >}}
 

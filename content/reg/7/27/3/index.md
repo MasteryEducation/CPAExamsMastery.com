@@ -291,7 +291,7 @@ For more details, you may also refer to Part V: Federal Taxation of Individuals 
 
 -------------------------------------------------------------------------------
 
-## SEO-Optimized Quiz: Life, Disability, and Long-Term Care Insurance Essentials
+## Quiz: Life, Disability, and Long-Term Care Insurance Essentials
 
 {{< quizdown >}}
 

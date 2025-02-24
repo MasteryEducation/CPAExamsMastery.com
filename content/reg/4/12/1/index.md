@@ -174,7 +174,7 @@ Mastering these rules is pivotal in Part IV of the CPA Exam’s REG Section. Fut
 
 -------------------------------------------------------------------------------
 
-## SEO-Optimized Quiz: Mastering Cost Basis Adjustments
+## Quiz: Mastering Cost Basis Adjustments
 
 {{< quizdown >}}
 

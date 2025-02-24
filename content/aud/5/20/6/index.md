@@ -172,7 +172,7 @@ flowchart LR
 
 ---
 
-## SEO-Optimized Quiz: Mastering SOC for Cybersecurity
+## Quiz: Mastering SOC for Cybersecurity
 
 {{< quizdown >}}
 

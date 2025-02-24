@@ -248,7 +248,7 @@ In each step, net income (positive or negative) and distributions incrementally 
 
 ---
 
-## SEO-Optimized Quiz: Built-In Gain & S Corporation Distribution Essentials
+## Quiz: Built-In Gain & S Corporation Distribution Essentials
 
 {{< quizdown >}}
 

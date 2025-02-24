@@ -210,7 +210,7 @@ On the TCP section of the CPA Exam, you may encounter multiple-choice questions,
 4. **Online Tools & Resources**: The official IRS website (IRS.gov) provides directories and calculators (e.g., estimated tax worksheets).
 
 -------------------------------------------------------------------------------
-## SEO-Optimized Quiz: “Mastering IRS Penalties & Compliance Triggers”
+## Quiz: “Mastering IRS Penalties & Compliance Triggers”
 
 {{< quizdown >}}
 

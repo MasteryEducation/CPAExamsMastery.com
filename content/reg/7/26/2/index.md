@@ -190,7 +190,7 @@ Professional guidance from a tax planner or CPA with robust modeling tools can h
 
 -------------------------------------------------------------------------------
 
-## SEO-Optimized AMT Preference Management Quiz
+## AMT Preference Management Quiz
 
 {{< quizdown >}}
 

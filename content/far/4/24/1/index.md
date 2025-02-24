@@ -166,7 +166,7 @@ In Chapter 19: Contingencies and Commitments, we mentioned going concern issues 
 
 --------------------------------------------------------------------------------
 
-## SEO-Optimized Quiz: Subsequent Events Essentials
+## Quiz: Subsequent Events Essentials
 
 {{< quizdown >}}
 

@@ -201,7 +201,7 @@ If, in the above example, Store A experiences a net loss while Store B generates
 
 ---
 
-## SEO-Optimized Quiz on Unrelated Business Taxable Income (UBTI)
+## Quiz on Unrelated Business Taxable Income (UBTI)
 
 {{< quizdown >}}
 

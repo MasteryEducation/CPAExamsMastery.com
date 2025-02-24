@@ -237,7 +237,7 @@ Since the net passive loss is $55,000, it is suspended under §469 and carried f
 
 --------------------------------------------------------------------------------
 
-## SEO-Optimized Quiz on Passive Losses & At-Risk Rules
+## Quiz on Passive Losses & At-Risk Rules
 
 {{< quizdown >}}
 

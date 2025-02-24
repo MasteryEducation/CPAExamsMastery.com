@@ -158,7 +158,7 @@ flowchart LR
 
 ---
 
-## SEO-Optimized Fraud Examination Quiz
+## Fraud Examination Quiz
 
 {{< quizdown >}}
 

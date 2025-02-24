@@ -268,7 +268,7 @@ In this flowchart:
 
 -------------------------------------------------------------------------------
   
-## SEO-Optimized Quiz: Complex K-1 Payments, Special Allocations & Basis Adjustments
+## Quiz: Complex K-1 Payments, Special Allocations & Basis Adjustments
 
 {{< quizdown >}}
 

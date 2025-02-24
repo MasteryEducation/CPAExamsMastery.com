@@ -266,7 +266,7 @@ Those looking to deepen their practical knowledge can also review publicly liste
 
 ----------------------------------------------------------------------------
   
-## SEO-Optimized Quiz: Mastering the Statement of Changes in Equity
+## Quiz: Mastering the Statement of Changes in Equity
 
 {{< quizdown >}}
 

@@ -194,7 +194,7 @@ Explanation:
 
 --------------------------------------------------------------------------------
 
-## SEO-Optimized Quiz: Deferred Gains and Future Dispositions
+## Quiz: Deferred Gains and Future Dispositions
 
 {{< quizdown >}}
 

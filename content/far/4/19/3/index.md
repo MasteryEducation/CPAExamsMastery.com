@@ -189,7 +189,7 @@ In this hypothetical scenario, the entity is contractually bound for at least $4
 • IFRS and US GAAP: Similarities and Differences (KPMG or PwC Publications).
 
 ---------------------------------------------------------------------------------------------------
-## SEO-Optimized Quiz: Mastering Operating Lease and Purchase Obligation Disclosures
+## Quiz: Mastering Operating Lease and Purchase Obligation Disclosures
 
 {{< quizdown >}}
 

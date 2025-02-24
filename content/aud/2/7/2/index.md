@@ -167,7 +167,7 @@ These sources provide extensive guidance on how to plan and execute procedures, 
 
 ---
 
-## SEO-Optimized Quiz: Mastering Nature, Timing, and Extent in Audits
+## Quiz: Mastering Nature, Timing, and Extent in Audits
 
 {{< quizdown >}}
 

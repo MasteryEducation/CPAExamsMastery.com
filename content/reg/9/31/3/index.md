@@ -203,7 +203,7 @@ In this structure:
 
 ---
 
-## SEO-Optimized Quiz on Multi-Entity Tax Compliance
+## Quiz on Multi-Entity Tax Compliance
 
 {{< quizdown >}}
 

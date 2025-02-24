@@ -154,7 +154,7 @@ flowchart LR
 
 ---
 
-## SEO-Optimized Quiz: ESG Attestation Essentials for CPAs
+## Quiz: ESG Attestation Essentials for CPAs
 
 {{< quizdown >}}
 

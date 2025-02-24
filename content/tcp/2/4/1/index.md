@@ -244,7 +244,7 @@ Classifying expenses accurately lies at the heart of tax compliance and planning
 
 --------------------------------------------------------------------------------
 
-## SEO-Optimized Quiz: Mastering Business vs. Personal Deductions & QBI
+## Quiz: Mastering Business vs. Personal Deductions & QBI
 
 {{< quizdown >}}
 

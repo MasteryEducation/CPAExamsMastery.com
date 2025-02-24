@@ -298,7 +298,7 @@ Above amounts are hypothetical illustrations to demonstrate how figures can adju
 
 --------------------------------------------------------------------------------
 
-## SEO-Optimized Kiddie Tax Mastery Quiz
+## Kiddie Tax Mastery Quiz
 
 {{< quizdown >}}
 

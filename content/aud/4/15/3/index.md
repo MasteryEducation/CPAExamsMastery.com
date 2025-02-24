@@ -215,7 +215,7 @@ This logic tree helps auditors navigate whether a disclosure or an emphasis-of-m
 
 ---
 
-## SEO-Optimized Quiz: Consistency, Changes in Accounting Principles, and Corrections of Errors
+## Quiz: Consistency, Changes in Accounting Principles, and Corrections of Errors
 
 {{< quizdown >}}
 

@@ -243,7 +243,7 @@ By grouping these transactions in the appropriate sections, stakeholders can see
 For deeper comprehension, consult official FASB materials or consider enrolling in specialized courses focused on not-for-profit accounting, ensuring your preparation aligns with professional best practices and up-to-date standards.
 
 --------------------------------------------------------------------------------
-## SEO-Optimized Quiz on Statement of Cash Flows for NFPs
+## Quiz on Statement of Cash Flows for NFPs
 
 {{< quizdown >}}
 

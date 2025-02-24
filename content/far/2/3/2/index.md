@@ -225,7 +225,7 @@ Under IFRS, there is no strict requirement to present an income statement in sin
 • Various recognized texts: Intermediate Accounting by Kieso, Weygandt, and Warfield (for deeper academic treatment)
 
 --------------------------------------------------------------------------------
-## SEO-Optimized Quiz: Single-Step vs. Multi-Step Income Statement Essentials
+## Quiz: Single-Step vs. Multi-Step Income Statement Essentials
 
 {{< quizdown >}}
 

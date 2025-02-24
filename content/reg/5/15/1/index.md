@@ -245,7 +245,7 @@ These resources offer detailed explanations, worksheets, and examples to guide y
 
 ---
 
-## SEO-Optimized Quiz: Mastering Adjustments to AGI with Self-Employed Expenses, IRAs, and HSAs
+## Quiz: Mastering Adjustments to AGI with Self-Employed Expenses, IRAs, and HSAs
 
 {{< quizdown >}}
 

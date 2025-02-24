@@ -243,7 +243,7 @@ In all these steps, note that the partner’s outside basis is an attribute of t
 
 ---
 
-## SEO-Optimized Quiz on Partner’s Outside vs. Partnership Inside Basis
+## Quiz on Partner’s Outside vs. Partnership Inside Basis
 
 {{< quizdown >}}
 

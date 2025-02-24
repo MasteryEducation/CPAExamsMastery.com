@@ -166,7 +166,7 @@ Auditors can investigate these red flags more closely, thereby focusing their re
 
 ---
 
-## SEO-Optimized Quiz: Test Your Knowledge of Tools and Technologies in Forensic Audits
+## Quiz: Test Your Knowledge of Tools and Technologies in Forensic Audits
 
 {{< quizdown >}}
 

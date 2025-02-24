@@ -167,7 +167,7 @@ Determining whether to issue a single combined report or separate reports for th
 • Additional resources from professional bodies (AICPA, PCAOB) for best practices in reporting
 
 ---------------------------------------------------------------------------------------------------
-## SEO-Optimized Quiz: Integrated vs. Separate Reporting for ICFR
+## Quiz: Integrated vs. Separate Reporting for ICFR
 
 {{< quizdown >}}
 

@@ -155,7 +155,7 @@ An IT services firm disclosed that it recognized revenue on a percentage-of-comp
 
 ---
 
-## SEO-Optimized Quiz: Omission or Inconsistency of Disclosures
+## Quiz: Omission or Inconsistency of Disclosures
 
 {{< quizdown >}}
 

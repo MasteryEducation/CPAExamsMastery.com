@@ -199,7 +199,7 @@ Staying abreast of changes from both the IASB and the FASB is essential for CPA 
 
 ---
 
-## SEO-Optimized Quiz: IFRS vs. GAAP Disclosure and Convergence Mastery
+## Quiz: IFRS vs. GAAP Disclosure and Convergence Mastery
 
 {{< quizdown >}}
 

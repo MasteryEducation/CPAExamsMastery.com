@@ -247,7 +247,7 @@ Large corporations are often required to provide this level of detail to offer t
 
 ---------------------------------------------------------------------
 
-## SEO-Optimized Quiz: Mastering Permanent & Temporary Differences
+## Quiz: Mastering Permanent & Temporary Differences
 
 {{< quizdown >}}
 

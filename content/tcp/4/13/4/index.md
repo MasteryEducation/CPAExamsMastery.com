@@ -183,7 +183,7 @@ QSBS planning can be extremely beneficial for tax minimization but requires rigo
 
 ---
 
-## SEO-Optimized Quiz on QSBS Exclusions: Maximize Your Tax Savings
+## Quiz on QSBS Exclusions: Maximize Your Tax Savings
 
 {{< quizdown >}}
 

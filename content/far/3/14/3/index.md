@@ -227,7 +227,7 @@ Below are resources for additional guidance and deeper study on internal-use sof
 
 -------------------------------------------------------------------------------
 
-## SEO-Optimized Quiz on Accounting for Internal-Use Software
+## Quiz on Accounting for Internal-Use Software
 
 {{< quizdown >}}
 

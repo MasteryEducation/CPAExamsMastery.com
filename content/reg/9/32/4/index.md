@@ -194,7 +194,7 @@ By keeping pace with new legislative proposals, adopting the latest technologies
 
 -----
 
-## SEO-Optimized Tax Law Updates and Future Trends Quiz
+## Tax Law Updates and Future Trends Quiz
 
 {{< quizdown >}}
 

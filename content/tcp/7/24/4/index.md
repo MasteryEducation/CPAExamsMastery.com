@@ -191,7 +191,7 @@ By familiarizing yourself with these resources, you can expand your knowledge of
 
 -------------------------------------------------------------------------------
 
-## SEO-Optimized Quiz on Niche Credits & Industry-Specific Deductions
+## Quiz on Niche Credits & Industry-Specific Deductions
 
 {{< quizdown >}}
 

@@ -234,7 +234,7 @@ Overall, taxpayers are encouraged to maintain careful records, secure proper lia
 
 --------------------------------------------------------------------------------
 
-## SEO-Optimized Quiz: Mastering At-Risk Rules & Participation Tests
+## Quiz: Mastering At-Risk Rules & Participation Tests
 
 {{< quizdown >}}
 

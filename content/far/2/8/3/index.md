@@ -365,7 +365,7 @@ Understanding and improving these ratios strengthens short-term solvency, enhanc
 
 -------------------------------------------------------------------------------
 
-## SEO-Optimized Liquidity Ratios Knowledge Check
+## Liquidity Ratios Knowledge Check
 
 {{< quizdown >}}
 

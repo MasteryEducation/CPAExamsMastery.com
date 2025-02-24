@@ -143,7 +143,7 @@ Below are some resources valuable for auditors, financial professionals, and cor
 
 ---
 
-## SEO-Optimized Quiz: Communicating ESG Results and External Reporting
+## Quiz: Communicating ESG Results and External Reporting
 
 {{< quizdown >}}
 

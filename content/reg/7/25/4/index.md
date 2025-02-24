@@ -199,7 +199,7 @@ Recommended resources and references:
 
 ---
 
-## SEO-Optimized Quiz: Elevate Your Tax-Savvy Charitable Planning
+## Quiz: Elevate Your Tax-Savvy Charitable Planning
 
 {{< quizdown >}}
 

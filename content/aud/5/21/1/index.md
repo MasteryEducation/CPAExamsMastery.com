@@ -161,7 +161,7 @@ These resources can deepen knowledge of forensic methodology, fraud detection to
 
 ---
 
-## SEO-Optimized Quiz: Mastering the Fundamentals of Forensic Accounting
+## Quiz: Mastering the Fundamentals of Forensic Accounting
 
 {{< quizdown >}}
 

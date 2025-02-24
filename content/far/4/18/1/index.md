@@ -228,7 +228,7 @@ This more granular perspective helps accountants navigate potential gray areas b
 
 ---
 
-## SEO-Optimized Quiz: Changes in Accounting Principle vs. Estimates
+## Quiz: Changes in Accounting Principle vs. Estimates
 
 {{< quizdown >}}
 

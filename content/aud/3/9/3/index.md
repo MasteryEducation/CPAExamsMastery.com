@@ -153,7 +153,7 @@ flowchart LR
 
 ---
 
-## SEO-Optimized Quiz: Mastering Internal Control Deficiency Communication
+## Quiz: Mastering Internal Control Deficiency Communication
 
 {{< quizdown >}}
 

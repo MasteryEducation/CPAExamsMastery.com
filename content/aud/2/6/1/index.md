@@ -166,7 +166,7 @@ flowchart LR
   - PCAOB Auditing Standard (AS) 2110 for public-filing entities, highlighting the importance of evaluating risk of material misstatement.
 
 --------------------------------------------------------------------------------
-## SEO-Optimized Quiz: Identifying Significant Accounts, Transactions, and Assertions Quiz
+## Quiz: Identifying Significant Accounts, Transactions, and Assertions Quiz
 
 {{< quizdown >}}
 

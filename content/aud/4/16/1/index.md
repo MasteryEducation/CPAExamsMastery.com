@@ -134,7 +134,7 @@ flowchart LR
 
 ---
 
-## SEO-Optimized Quiz: Essential SSARS Engagements
+## Quiz: Essential SSARS Engagements
 
 {{< quizdown >}}
 

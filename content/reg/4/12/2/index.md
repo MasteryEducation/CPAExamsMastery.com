@@ -148,7 +148,7 @@ Suppose the date-of-death value of estate assets is USD 1,000,000, but six month
 
 These resources offer deeper guidance and are recommended for those seeking to expand their knowledge or research complicated aspects of basis transfers.
 
-## SEO-Optimized Quiz on Basis for Gifted and Inherited Assets
+## Quiz on Basis for Gifted and Inherited Assets
 
 {{< quizdown >}}
 

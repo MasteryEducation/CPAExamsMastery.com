@@ -248,7 +248,7 @@ To illustrate the interplay of these regimes:
 
 --------------------------------------------------------------------------------
 
-## SEO-Optimized Quiz: FDII, GILTI, BEAT, and CFCs Mastery
+## Quiz: FDII, GILTI, BEAT, and CFCs Mastery
 
 {{< quizdown >}}
 

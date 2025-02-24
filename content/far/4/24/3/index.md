@@ -211,7 +211,7 @@ Below is a summary table contrasting recognized (adjusting) and nonrecognized (d
 
 ---
 
-## SEO-Optimized Quiz: Test Your Knowledge of Adjusting Entries & Disclosures
+## Quiz: Test Your Knowledge of Adjusting Entries & Disclosures
 
 {{< quizdown >}}
 

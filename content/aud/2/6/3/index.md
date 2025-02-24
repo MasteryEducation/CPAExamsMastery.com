@@ -160,7 +160,7 @@ Auditors aiming to excel in the AUD section of the Uniform CPA Examination shoul
 
 ---
 
-## SEO-Optimized Fraud Risk Detection, Response & Documentation Quiz
+## Fraud Risk Detection, Response & Documentation Quiz
 
 {{< quizdown >}}
 

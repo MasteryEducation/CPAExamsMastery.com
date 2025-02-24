@@ -147,7 +147,7 @@ flowchart LR
 
 -------------------------------------------------------------------------------
 
-## SEO-Optimized Quiz on Economic and Market Conditions for Auditors
+## Quiz on Economic and Market Conditions for Auditors
 
 {{< quizdown >}}
 

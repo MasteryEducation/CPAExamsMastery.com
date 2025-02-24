@@ -167,7 +167,7 @@ Understanding the formation of an agency relationship lays the foundation for de
 
 ---
 
-## SEO-Optimized Quiz: Mastering Agency Formation
+## Quiz: Mastering Agency Formation
 
 {{< quizdown >}}
 

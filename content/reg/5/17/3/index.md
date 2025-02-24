@@ -282,7 +282,7 @@ Many advanced topics, such as partnership anti-abuse rules and disguised sales, 
 
 --------------------------------------------------------------------------------
 
-## SEO-Optimized Quiz on Basis and Loss Utilization
+## Quiz on Basis and Loss Utilization
 
 {{< quizdown >}}
 

@@ -207,7 +207,7 @@ flowchart TB
 
 ---
 
-## SEO-Optimized Quiz: “Master Income Timing Strategies for Tax Savings”
+## Quiz: “Master Income Timing Strategies for Tax Savings”
 
 {{< quizdown >}}
 

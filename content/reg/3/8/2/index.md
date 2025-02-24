@@ -171,7 +171,7 @@ When practitioners and exam candidates understand the vital role of contract def
 
 ---------------------------------------------------------------------------------
 
-## SEO-Optimized Quiz on Contract Defenses: Fraud, Mistake, Duress, and Illegality
+## Quiz on Contract Defenses: Fraud, Mistake, Duress, and Illegality
 
 {{< quizdown >}}
 

@@ -151,7 +151,7 @@ flowchart LR
 By studying and applying recognized frameworks, standards, and best practices, auditors are better equipped to identify gaps, mitigate risks, and ensure confidence in the financial reporting process stemming from the IT environment.
 
 -------------------------------------------------------------------------------
-## SEO-Optimized Quiz on IT General Controls for Auditing
+## Quiz on IT General Controls for Auditing
 
 {{< quizdown >}}
 

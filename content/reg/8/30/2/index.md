@@ -255,7 +255,7 @@ Keep in mind that these sources are updated periodically; always confirm the cur
 
 ---
 
-## SEO-Optimized Disallowance of Losses and Deferred Gains Mastery Quiz
+## Disallowance of Losses and Deferred Gains Mastery Quiz
 
 {{< quizdown >}}
 

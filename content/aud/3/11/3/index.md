@@ -172,7 +172,7 @@ These authoritative sources help auditors navigate the complexities of legal lia
 
 ---
 
-## SEO-Optimized Quiz: Mastering Legal and Litigation Liabilities
+## Quiz: Mastering Legal and Litigation Liabilities
 
 {{< quizdown >}}
 

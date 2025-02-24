@@ -155,7 +155,7 @@ ABC, LLP, an audit firm, stores client data on a cloud-based server. To comply w
 
 ---
 
-## SEO-Optimized Quiz: Documentation Requirements and Retention Quiz
+## Quiz: Documentation Requirements and Retention Quiz
 
 {{< quizdown >}}
 

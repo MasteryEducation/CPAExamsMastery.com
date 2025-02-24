@@ -149,7 +149,7 @@ In this chart, the engagement team’s work is overseen by the partner/manager. 
 
 ---
 
-## SEO-Optimized Quality Control Quiz
+## Quality Control Quiz
 
 {{< quizdown >}}
 

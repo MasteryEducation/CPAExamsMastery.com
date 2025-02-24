@@ -225,7 +225,7 @@ flowchart TB
 
 --------------------------------------------------------------------------------
 
-## SEO-Optimized Quiz on Refundable vs. Nonrefundable Tax Credits
+## Quiz on Refundable vs. Nonrefundable Tax Credits
 
 {{< quizdown >}}
 

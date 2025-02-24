@@ -193,7 +193,7 @@ sequenceDiagram
 
 ---
 
-## SEO-Optimized Cybersecurity Essentials Quiz
+## Cybersecurity Essentials Quiz
 
 {{< quizdown >}}
 

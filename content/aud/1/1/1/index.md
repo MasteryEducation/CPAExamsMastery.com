@@ -164,7 +164,7 @@ Imagine a mid-sized manufacturing firm experiencing rapid growth. As their produ
 
 ---
 
-## SEO-Optimized Quiz on External Auditor Responsibilities
+## Quiz on External Auditor Responsibilities
 
 {{< quizdown >}}
 

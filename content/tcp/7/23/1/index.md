@@ -177,7 +177,7 @@ For the exam candidate, a command of these topics can be integral to success in 
 
 ---
 
-## SEO-Optimized Quiz: Pass-Through Entity Tax Workarounds & SALT Deduction Insights
+## Quiz: Pass-Through Entity Tax Workarounds & SALT Deduction Insights
 
 {{< quizdown >}}
 

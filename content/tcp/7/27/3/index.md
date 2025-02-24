@@ -207,7 +207,7 @@ When studying for the TCP section of the CPA exam, keep these points in mind:
 
 ---
 
-## SEO-Optimized Quiz: Trusts & Entity Structures for Generational Wealth Transfer
+## Quiz: Trusts & Entity Structures for Generational Wealth Transfer
 
 {{< quizdown >}}
 

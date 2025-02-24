@@ -209,7 +209,7 @@ Below are some materials that offer deeper insights into the conversion rules, b
 
 ## Test Your Knowledge: Basis and Depreciation for Converted Property
 
-Below is an SEO-optimized quiz designed to reinforce key concepts about the conversion of assets from personal to business use. Review the following questions and explanations to deepen your comprehension.
+Below is an quiz designed to reinforce key concepts about the conversion of assets from personal to business use. Review the following questions and explanations to deepen your comprehension.
 
 {{< quizdown >}}
 

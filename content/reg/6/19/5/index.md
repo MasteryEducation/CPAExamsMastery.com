@@ -158,7 +158,7 @@ Such a straightforward layout helps to avoid errors and highlights any upcoming 
 
 ---
 
-## SEO-Optimized Quiz: Mastering NOL and Capital Loss Rules
+## Quiz: Mastering NOL and Capital Loss Rules
 
 {{< quizdown >}}
 

@@ -277,7 +277,7 @@ Section 1031 remains a cornerstone of tax planning for real estate investors see
 
 -------------------------------------------------------------------------------
 
-## SEO-Optimized Quiz: Master the 1031 Like-Kind Exchange Process
+## Quiz: Master the 1031 Like-Kind Exchange Process
 
 {{< quizdown >}}
 

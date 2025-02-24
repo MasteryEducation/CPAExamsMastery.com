@@ -169,7 +169,7 @@ These documents offer comprehensive guidance on recognition, measurement, presen
 
 ---
 
-## SEO-Optimized Quiz on Finite-Lived vs. Indefinite-Lived Intangible Assets
+## Quiz on Finite-Lived vs. Indefinite-Lived Intangible Assets
 
 {{< quizdown >}}
 
