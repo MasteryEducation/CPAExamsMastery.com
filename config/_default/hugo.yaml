@@ -4,7 +4,7 @@ title: CPA Exams Mastery
 copyright: "© 2025-{year} [Mastery Education](https://github.com/orgs/MasteryEducation) by [Tokenizer Inc.](https://tokenizer.ca/)| All Rights Reserved."
 defaultContentLanguage: en
 defaultContentLanguageInSubdir: # true # disable this to remove the default language code from URL, i.e. /en/docs -> /docs.
-enableRobotsTXT: true
+enableRobotsTXT: false
 timeout: 120s # images processing takes a long time, it's recommended to commit the resources folder for improve the build performance.
 enableEmoji: true
 
