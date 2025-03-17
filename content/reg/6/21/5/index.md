@@ -217,7 +217,6 @@ By understanding how to navigate new partner allocations, partial-year computati
 
 > **Explanation:** Book-ups or revaluations are meant to adjust the partnership’s assets to fair market value so that each partner’s capital account accurately reflects the current economic interests in the partnership.
 
----
 
 ### If a large gain-generating event occurs in the first half of the tax year and a new partner is admitted exactly in the middle of the year, which method of partial-year allocation most precisely reflects who should bear that gain for tax purposes?
 - [ ] The pro rata method, since it is administratively simpler.
@@ -227,7 +226,6 @@ By understanding how to navigate new partner allocations, partial-year computati
 
 > **Explanation:** The interim method effectively “closes the books” when the ownership change occurs, so items recognized before admission are allocated to the existing partners, creating a more precise economic reflection.
 
----
 
 ### Under Section 704(c), the “remedial method” permits a partnership to:
 - [ ] Avoid allocating any built-in gain or loss to the contributing partner.
@@ -237,7 +235,6 @@ By understanding how to navigate new partner allocations, partial-year computati
 
 > **Explanation:** The remedial method allows the partnership to create offsetting notional items that correct distortions so the contributing and non-contributing partners bear the appropriate tax burdens.
 
----
 
 ### Which of the following is generally considered a nonrecourse liability for federal tax purposes?
 - [ ] A liability guaranteed by Partner A.
@@ -247,7 +244,6 @@ By understanding how to navigate new partner allocations, partial-year computati
 
 > **Explanation:** A nonrecourse liability is one for which no partner bears the economic risk of loss. An unguaranteed mortgage secured only by the property itself is usually categorized as nonrecourse.
 
----
 
 ### If a partner’s share of partnership liabilities decreases, the partner may be treated as having received:
 - [ ] A taxable distribution if the decrease in liabilities exceeds their outside basis.
@@ -257,7 +253,6 @@ By understanding how to navigate new partner allocations, partial-year computati
 
 > **Explanation:** A reduction in a partner’s share of partnership liabilities can be considered a deemed distribution. If this deemed distribution exceeds the partner’s outside basis, it can trigger gain recognition.
 
----
 
 ### Under the interim closing-of-the-books method, which of the following must the partnership generally do when a partner departs mid-year?
 - [ ] Allocate no items of income or expense to the departing partner after their exit date.
@@ -267,7 +262,6 @@ By understanding how to navigate new partner allocations, partial-year computati
 
 > **Explanation:** With the interim method, the partnership effectively closes its books at the date of the partner’s departure, separating items into two segments for proper allocation.
 
----
 
 ### In a partnership where Partner X has contributed property with a large built-in gain, what is the primary purpose of Section 704(c) upon ultimate disposition of that property?
 - [x] Ensuring Partner X is allocated the pre-contribution gain.
@@ -277,7 +271,6 @@ By understanding how to navigate new partner allocations, partial-year computati
 
 > **Explanation:** Section 704(c) ensures that the contributing partner (Partner X) bears the tax consequences of the built-in gain that existed at contribution, preventing unfair shifting of that gain among non-contributing partners.
 
----
 
 ### A new partner’s personal guarantee to repay a portion of the partnership’s loan generally:
 - [ ] Does not affect any partner’s allocated share of liabilities.
@@ -287,7 +280,6 @@ By understanding how to navigate new partner allocations, partial-year computati
 
 > **Explanation:** By guaranteeing the partnership’s debt, the new partner shifts a portion of the economic risk of loss to themselves, thus reassigning the liability allocation proportionally.
 
----
 
 ### What is the main difference between the traditional and curative Section 704(c) methods?
 - [x] The curative method allows offsetting allocations of other tax items to correct distortions, while the traditional method does not.
@@ -297,7 +289,6 @@ By understanding how to navigate new partner allocations, partial-year computati
 
 > **Explanation:** The curative method allows the partnership to use actual items of income, deduction, gain, or loss to correct mismatches from the traditional method, while the traditional method simply attempts to allocate depreciation and gain to the contributing partner.
 
----
 
 ### A change in a partner’s distributive share of liabilities, resulting from ownership changes or new debt guarantees, can be treated as a non-taxable event if the change in liability allocation is less than their outside basis.
 - [x] True

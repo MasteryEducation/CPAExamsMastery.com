@@ -256,7 +256,6 @@ Gathering evidence of control operation is a pivotal component of attestation an
 
 > **Explanation:** Reproducible results ensure that the audit methodology is consistent and transparent so that another professional could replicate the test and arrive at similar conclusions.
 
----
 
 ### Inquiry as an evidence-gathering technique is most effective when:
 
@@ -267,7 +266,6 @@ Gathering evidence of control operation is a pivotal component of attestation an
 
 > **Explanation:** Inquiry provides qualitative insights that need to be corroborated through objective measures like inspection or re-performance to achieve robust evidence.
 
----
 
 ### What is a common drawback of observation as an audit technique?
 
@@ -278,7 +276,6 @@ Gathering evidence of control operation is a pivotal component of attestation an
 
 > **Explanation:** Auditee behavior may not reflect normal operating conditions if observed staff consciously or unconsciously change their actions under scrutiny.
 
----
 
 ### Inspection of documentation is particularly useful for:
 
@@ -289,7 +286,6 @@ Gathering evidence of control operation is a pivotal component of attestation an
 
 > **Explanation:** Inspection involves examining logs, change tickets, audit trails, and other evidence that reflect past events. It is less suited to real-time observation.
 
----
 
 ### In which scenario is re-performance especially beneficial?
 
@@ -300,7 +296,6 @@ Gathering evidence of control operation is a pivotal component of attestation an
 
 > **Explanation:** Re-performance helps validate automated or manual processes by replicating the control owner’s actions to determine whether the outcomes are consistent.
 
----
 
 ### One key best practice for achieving reproducible results is:
 
@@ -311,7 +306,6 @@ Gathering evidence of control operation is a pivotal component of attestation an
 
 > **Explanation:** Detailed documentation of test steps, data sets, and results ensures that future auditors or reviewers can replicate the process and verify findings.
 
----
 
 ### Why is it important to combine different evidence-gathering techniques?
 
@@ -322,7 +316,6 @@ Gathering evidence of control operation is a pivotal component of attestation an
 
 > **Explanation:** Relying on multiple methods (inquiry, observation, inspection, re-performance) helps provide a comprehensive view of the control environment and reduces the risk of oversight.
 
----
 
 ### A potential pitfall of excessive reliance on inquiry alone is:
 
@@ -333,7 +326,6 @@ Gathering evidence of control operation is a pivotal component of attestation an
 
 > **Explanation:** Inquiry can yield important context but is subjective and should be corroborated by more objective methods like inspection or re-performance.
 
----
 
 ### For re-performance testing, auditors should:
 
@@ -344,7 +336,6 @@ Gathering evidence of control operation is a pivotal component of attestation an
 
 > **Explanation:** Proper coordination and careful documentation are necessary to avoid disruptions, protect the control environment, and keep a clear record of each action.
 
----
 
 ### True or False: Observations are always more reliable than inspections.
 

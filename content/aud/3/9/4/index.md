@@ -201,7 +201,6 @@ Below is a simplified scenario illustrating an integrated audit approach under S
 
 > **Explanation:** In an integrated audit, the external auditor provides opinions on both the financial statements and the effectiveness of the entity’s internal controls over financial reporting.
 
----
 
 ### Which statement best describes the top-down approach in testing internal controls?
 
@@ -212,7 +211,6 @@ Below is a simplified scenario illustrating an integrated audit approach under S
 
 > **Explanation:** The top-down approach emphasizes starting at the entity-level, determining where the highest risks lie, and then targeting significant accounts and transaction-level controls accordingly.
 
----
 
 ### What is the primary difference between design effectiveness and operating effectiveness?
 
@@ -223,7 +221,6 @@ Below is a simplified scenario illustrating an integrated audit approach under S
 
 > **Explanation:** Design effectiveness looks at whether the control is properly designed to address a risk. Operating effectiveness then validates if the control is functioning as intended over a period of time.
 
----
 
 ### Which of the following would most likely result in an adverse opinion on ICFR?
 
@@ -234,7 +231,6 @@ Below is a simplified scenario illustrating an integrated audit approach under S
 
 > **Explanation:** An adverse opinion on ICFR is issued when there is at least one material weakness. This means there is a reasonable possibility that a material misstatement could occur and go undetected.
 
----
 
 ### If an auditor cannot obtain sufficient evidence regarding the effectiveness of internal controls, the auditor should issue a:
 
@@ -245,7 +241,6 @@ Below is a simplified scenario illustrating an integrated audit approach under S
 
 > **Explanation:** When the auditor is restricted from obtaining enough evidence to form an opinion on the effectiveness of ICFR, the appropriate response is to issue a disclaimer of opinion.
 
----
 
 ### In what scenario might a public company receive an adverse opinion on internal control but an unqualified opinion on its financial statements?
 
@@ -256,7 +251,6 @@ Below is a simplified scenario illustrating an integrated audit approach under S
 
 > **Explanation:** A material weakness refers to the potential for a material misstatement; however, the actual financial statements under audit may still be free from material misstatements, thus leading to an unqualified opinion on the financials but an adverse opinion on ICFR.
 
----
 
 ### Which of the following best describes the focus of entity-level controls?
 
@@ -267,7 +261,6 @@ Below is a simplified scenario illustrating an integrated audit approach under S
 
 > **Explanation:** Entity-level controls encompass higher-level activities such as governance structures, ethical culture, and policies that affect the entire organization.
 
----
 
 ### Which of the following is a key benefit of using the top-down approach for ICFR testing?
 
@@ -278,7 +271,6 @@ Below is a simplified scenario illustrating an integrated audit approach under S
 
 > **Explanation:** By starting with entity-level controls and proceeding downward, the top-down approach captures high-risk areas and ensures the most impactful controls receive sufficient scrutiny.
 
----
 
 ### What is a primary aim of management’s annual evaluation of ICFR under SOX?
 
@@ -289,7 +281,6 @@ Below is a simplified scenario illustrating an integrated audit approach under S
 
 > **Explanation:** Management is required to evaluate and report on internal control effectiveness, disclosing material weaknesses if present. This does not negate the external auditor’s independent assessment.
 
----
 
 ### True or False: A significant deficiency carries the same severity and consequences as a material weakness for ICFR reporting.
 

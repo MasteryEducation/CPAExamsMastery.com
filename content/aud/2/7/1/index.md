@@ -175,7 +175,6 @@ Below is a sample table illustrating how an auditor’s strategy may shift based
 
 > **Explanation:** When risk is pervasive across the financial statements—e.g., potential management override—the auditor typically escalates the level of professional skepticism and brings in more seasoned auditors who can effectively respond to this heightened risk.  
 
----
 
 ### What is the primary focus of assertion-level risk responses?
 
@@ -186,7 +185,6 @@ Below is a sample table illustrating how an auditor’s strategy may shift based
 
 > **Explanation:** Assertion-level risks are addressed through direct testing of the specific accounts, transactions, or disclosures deemed at higher risk of material misstatement.  
 
----
 
 ### How does materiality impact audit strategy?
 
@@ -197,7 +195,6 @@ Below is a sample table illustrating how an auditor’s strategy may shift based
 
 > **Explanation:** Materiality levels help define the scope and rigor of the examiner’s procedures, as well as set the bar for what will be considered a reportable misstatement.  
 
----
 
 ### Which of the following is a financial statement-level risk rather than an assertion-level risk?
 
@@ -208,7 +205,6 @@ Below is a sample table illustrating how an auditor’s strategy may shift based
 
 > **Explanation:** A volatile industry environment can influence broader aspects of the financial statements, requiring overarching changes to the audit strategy.  
 
----
 
 ### Which strategy below is best suited for addressing a high-risk assertion for inventory valuation?
 
@@ -219,7 +215,6 @@ Below is a sample table illustrating how an auditor’s strategy may shift based
 
 > **Explanation:** When inventory valuation is high-risk, specialized skills may be necessary, and the auditor may expand sample sizes or deploy data analytics to detect irregularities.  
 
----
 
 ### A client’s management is highly incentivized to show profit growth. How does this condition typically affect the auditor’s overall strategy?
 
@@ -230,7 +225,6 @@ Below is a sample table illustrating how an auditor’s strategy may shift based
 
 > **Explanation:** High incentives for profit growth could create inherent motivations to manipulate data, increasing the auditor’s vigilance and responses to potential misstatements.  
 
----
 
 ### What is the primary purpose of using advanced data analytics in assertion-level testing?
 
@@ -241,7 +235,6 @@ Below is a sample table illustrating how an auditor’s strategy may shift based
 
 > **Explanation:** Data analytics helps auditors focus on transactions or areas that exhibit unusual characteristics, increasing audit efficiency and effectiveness.  
 
----
 
 ### When would an auditor likely use a lower performance materiality?
 
@@ -252,7 +245,6 @@ Below is a sample table illustrating how an auditor’s strategy may shift based
 
 > **Explanation:** With heightened risks, the auditor reduces performance materiality to catch smaller misstatements and mitigate the chance of an aggregation that exceeds overall materiality.  
 
----
 
 ### Which of the following is NOT an example of a high-level risk response?
 
@@ -263,7 +255,6 @@ Below is a sample table illustrating how an auditor’s strategy may shift based
 
 > **Explanation:** Increasing sample size for accounts payable confirmations is an assertion-level (detailed) response, not an overarching, high-level strategy.  
 
----
 
 ### True or False: Reassessing materiality during the audit should only be done when new audit standards are issued.
 

@@ -195,7 +195,6 @@ flowchart LR
 
 > **Explanation:** Forensic accounting experts must maintain objectivity, analyze relevant data, and present findings based on evidence, even if they are retained by one party. They must adhere to professional and ethical standards.
 
----
 
 ### When calculating lost profits, what is a crucial element of constructing the "but-for" scenario?
 
@@ -206,7 +205,6 @@ flowchart LR
 
 > **Explanation:** Lost profits calculation involves constructing a hypothetical scenario reflecting what profits would have been without the alleged wrongdoing, then comparing it to actual financial outcomes.
 
----
 
 ### Which of the following is often included in an expert report under FRCP 26?
 
@@ -217,7 +215,6 @@ flowchart LR
 
 > **Explanation:** FRCP 26 requires the expert to disclose qualifications, methodology, evidence relied upon, and a complete statement of opinions, among other details meant to inform the court and opposing counsel.
 
----
 
 ### What is the best approach to explaining complex financial conclusions to a jury?
 
@@ -228,7 +225,6 @@ flowchart LR
 
 > **Explanation:** Jurors typically benefit from simple language and visual aids. Effective communication helps ensure that technical findings are understood.
 
----
 
 ### In calculating economic damages for a personal injury case, which factors might a forensic expert consider?
 
@@ -239,7 +235,6 @@ flowchart LR
 
 > **Explanation:** Personal injury damages often include lost wages, future medical expenses, and discounting to present value. Brand value and intangible assets are generally more relevant to business disputes.
 
----
 
 ### What is one common pitfall when preparing a litigation support expert report?
 
@@ -250,7 +245,6 @@ flowchart LR
 
 > **Explanation:** Not disclosing data reliance or assumptions undermines the report’s credibility and transparency. Accuracy and thorough disclosure are essential in expert witness reporting.
 
----
 
 ### What legal concept must a forensic expert consider to ensure damages are recoverable?
 
@@ -261,7 +255,6 @@ flowchart LR
 
 > **Explanation:** Foreseeability is central to determining whether damages were predictable and thus legally recoverable. Courts often assess the relationship between the defendant’s actions and the plaintiff’s harm.
 
----
 
 ### Why should a forensic expert periodically update their analysis in long-duration cases?
 
@@ -272,7 +265,6 @@ flowchart LR
 
 > **Explanation:** Legal proceedings can extend over months or years. Market changes, new data, or shifts in business conditions may require the expert to revise initial findings to maintain accuracy.
 
----
 
 ### What best describes the role of disclaimers in an expert report?
 
@@ -283,7 +275,6 @@ flowchart LR
 
 > **Explanation:** Disclaimers help the court, counsel, and other parties understand the limitations of the findings, such as incomplete data or unverified assumptions. This transparency enhances credibility.
 
----
 
 ### True or False: Forensic experts are obligated to present findings favorable to the retaining counsel if contradictory evidence exists.
 

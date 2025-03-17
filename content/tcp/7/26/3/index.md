@@ -238,7 +238,6 @@ This example shows that while employers can employ multiple credits concurrently
 
 > **Explanation:** The Work Opportunity Tax Credit (WOTC) is designed to promote the hiring of individuals who have historically faced obstacles entering the workforce, not for hiring in all scenarios.
 
----
 
 ### Which of these statements about WOTC eligibility and certification is correct?
 - [ ] Employers have until the end of the quarter to secure necessary certifications for new hires.
@@ -248,7 +247,6 @@ This example shows that while employers can employ multiple credits concurrently
 
 > **Explanation:** WOTC requires timely submission of Form 8850 (within 28 days of hire) to ensure the state agency confirms the targeted group status of the new employee.
 
----
 
 ### For 2020, under the CARES Act, what was the maximum annual ERC amount per employee?
 - [ ] $10,000
@@ -258,7 +256,6 @@ This example shows that while employers can employ multiple credits concurrently
 
 > **Explanation:** In 2020, the Employee Retention Credit provided 50% of up to $10,000 in qualified wages, equating to a maximum of $5,000 per employee annually.
 
----
 
 ### In 2021, which of the following changes applied to the ERC compared to 2020?
 - [ ] The required decline in gross receipts increased from 50% to 80%.
@@ -268,7 +265,6 @@ This example shows that while employers can employ multiple credits concurrently
 
 > **Explanation:** The Consolidated Appropriations Act increased the ERC rate to 70% of qualified wages and lowered the qualifying gross receipts threshold to 20%.
 
----
 
 ### Which scenario correctly illustrates a common pitfall when using both WOTC and ERC?
 - [ ] Claiming the same employee’s wages for both WOTC and ERC in full.
@@ -278,7 +274,6 @@ This example shows that while employers can employ multiple credits concurrently
 
 > **Explanation:** Overlapping wages on the same employee for both credits without proper documentation is a major pitfall. The same wages cannot be applied twice to multiple credits if there is a prohibition on double counting.
 
----
 
 ### If an ex-felon hired through WOTC works at least 400 hours in the first year, what percentage of first-year qualified wages is generally allowable?
 - [x] 40%
@@ -288,7 +283,6 @@ This example shows that while employers can employ multiple credits concurrently
 
 > **Explanation:** When an eligible WOTC hire works at least 400 hours in the first year, the standard WOTC credit percentage is 40% of qualified first-year wages.
 
----
 
 ### For ERC eligibility in 2020, an employer (with more than 100 average full-time employees) generally:
 - [x] Can only count wages paid to employees not performing services during a period of economic hardship or shutdown.
@@ -298,7 +292,6 @@ This example shows that while employers can employ multiple credits concurrently
 
 > **Explanation:** In 2020, large employers (over 100 FTEs) could only claim ERC on wages paid to employees who were not working. Later provisions expanded that threshold to 500 for 2021.
 
----
 
 ### A best practice to avoid double counting wages for WOTC and ERC is:
 - [x] Maintaining separate wage allocations and time-tracking for each credit.
@@ -308,7 +301,6 @@ This example shows that while employers can employ multiple credits concurrently
 
 > **Explanation:** Properly segregating and documenting wages allocated to each credit is a leading practice to ensure compliance and avoid double counting.
 
----
 
 ### An employer meets the ERC gross receipts test in Q2 of 2021 with 450 full-time employees. Which statement is true?
 - [ ] employer is not eligible due to exceeding 100 full-time employees.
@@ -318,7 +310,6 @@ This example shows that while employers can employ multiple credits concurrently
 
 > **Explanation:** In 2021, the ERC was 70% of up to $10,000 of qualified wages per quarter, yielding a maximum of $7,000 per employee.
 
----
 
 ### The state workforce agency’s role in the WOTC process includes:
 - [x] Certifying whether an employee is from a targeted group.

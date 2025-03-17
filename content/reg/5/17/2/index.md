@@ -257,7 +257,6 @@ Staying current with IRS guidelines, reading relevant tax publications, and cros
 
 > **Explanation:** The main rationale for separately stated items is that these items are subject to unique tax rates or limitations at the owner level, such as charitable contribution percentage limits or capital gain rates.
 
----
 
 ### Section 179 expenses are separately stated because:
 
@@ -268,7 +267,6 @@ Staying current with IRS guidelines, reading relevant tax publications, and cros
 
 > **Explanation:** Section 179 deductions must be allocated and then limited at each partner’s or shareholder’s level. They have individual limitations based on active trade or business income.
 
----
 
 ### A partnership generates $100,000 of ordinary income, $10,000 of charitable contributions, and $5,000 of long-term capital gain. Which of the following amounts would be allocated to ordinary business income on a partner’s K-1 if they have a 50% partnership interest?
 
@@ -279,7 +277,6 @@ Staying current with IRS guidelines, reading relevant tax publications, and cros
 
 > **Explanation:** The partner’s 50% interest entitles them to $50,000 of the $100,000 ordinary income. The remaining $10,000 charitable contributions and $5,000 long-term capital gain are separately stated items.
 
----
 
 ### Which statement about special allocations is correct?
 
@@ -290,7 +287,6 @@ Staying current with IRS guidelines, reading relevant tax publications, and cros
 
 > **Explanation:** Special allocations need substantial economic effect, meaning they must reflect genuine economic arrangements rather than merely shifting tax benefits and burdens arbitrarily.
 
----
 
 ### For S corporations, separately stated items:
 
@@ -301,7 +297,6 @@ Staying current with IRS guidelines, reading relevant tax publications, and cros
 
 > **Explanation:** By default, S corporations generally allocate all income (including separately stated items) based on each shareholder’s ownership percentage. Special allocations are not permitted in an S corporation if it maintains only one class of stock.
 
----
 
 ### A partner’s at-risk and passive activity limitations might reduce or eliminate their ability to claim:
 
@@ -312,7 +307,6 @@ Staying current with IRS guidelines, reading relevant tax publications, and cros
 
 > **Explanation:** At-risk and passive activity rules primarily restrict how much of a partnership’s losses or deductions can be used by the individual. They do not apply to guaranteed payments for services or unrelated dividend income.
 
----
 
 ### Which of the following items is least likely to be separately stated on a pass-through return?
 
@@ -323,7 +317,6 @@ Staying current with IRS guidelines, reading relevant tax publications, and cros
 
 > **Explanation:** Salaries and wages to employees typically reduce ordinary business income. They do not usually appear as a separately stated item like capital gains, charitable contributions, or Section 179 deductions.
 
----
 
 ### In a partnership, the total charitable contribution deduction shown on Schedule K must:
 
@@ -334,7 +327,6 @@ Staying current with IRS guidelines, reading relevant tax publications, and cros
 
 > **Explanation:** The sum of the charitable contributions allocated on partners’ K-1s should be equal to what’s reported on Schedule K at the partnership level. Discrepancies can lead to filing errors and IRS inquiries.
 
----
 
 ### If a partnership has $300,000 in ordinary income and a separately stated short-term capital loss of $10,000, how should this be reflected on each partner’s Schedule K-1 if there are two 50% partners?
 
@@ -345,7 +337,6 @@ Staying current with IRS guidelines, reading relevant tax publications, and cros
 
 > **Explanation:** Each 50% partner is allocated half of the partnership’s income and half of the separately stated short-term capital loss. They must individually account for the capital loss when calculating their net capital gains or losses.
 
----
 
 ### A partnership that plans to maximize tax benefits from Section 179 expenses and charitable contributions might consider special allocations if:
 

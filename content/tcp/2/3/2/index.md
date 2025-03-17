@@ -251,7 +251,6 @@ Through diligent study, real-world examples, and continuous referencing of IRS m
 
 > **Explanation:** HSAs provide three layers of tax benefits: contributions may be tax-deductible or made pre-tax, earnings grow tax-free, and qualified distributions (for healthcare) remain tax-free. Traditional IRAs are tax-deferred on the growth and potentially tax-deductible on contributions, but withdrawals for non-qualified purposes (before retirement age) incur penalties and taxes.
 
----
 
 ### What is a notable penalty distinction for distributions from a SIMPLE IRA within the first two years of participation?
 
@@ -262,7 +261,6 @@ Through diligent study, real-world examples, and continuous referencing of IRS m
 
 > **Explanation:** SIMPLE IRAs apply a 25% penalty during the first two years of plan participation if the individual is under age 59½, which is stricter than the 10% penalty generally applied to retirement plan early withdrawals.
 
----
 
 ### For a self-employed taxpayer funding a SEP IRA, which of the following represents the correct formula for determining the maximum allowable contribution?
 
@@ -273,7 +271,6 @@ Through diligent study, real-world examples, and continuous referencing of IRS m
 
 > **Explanation:** The IRS requires that net self-employment income be reduced by half of the self-employment tax before applying the 25% maximum SEP contribution rate.
 
----
 
 ### In HSAs, which of the following triggers a 20% penalty tax?
 
@@ -284,7 +281,6 @@ Through diligent study, real-world examples, and continuous referencing of IRS m
 
 > **Explanation:** Nonqualified distributions from an HSA are subject to a 20% penalty if the account holder is not yet 65. After age 65, nonqualified withdrawals are taxed as ordinary income without the 20% penalty.
 
----
 
 ### Under which condition may an HSA participant be forced to recapture contributions made during the current year?
 
@@ -295,7 +291,6 @@ Through diligent study, real-world examples, and continuous referencing of IRS m
 
 > **Explanation:** If a taxpayer contributes the full-year amount under the last-month rule but then disqualifies themselves by leaving HDHP coverage during the testing period or enrolling in non-HDHP coverage, they may need to recapture some or all of the contributed funds, adding them to income and incurring a penalty. Although not a formal "phaseout," it effectively reduces allowable HSA contributions for that partial-year coverage.
 
----
 
 ### Which of the following is an employer obligation when offering a SIMPLE IRA plan?
 
@@ -306,7 +301,6 @@ Through diligent study, real-world examples, and continuous referencing of IRS m
 
 > **Explanation:** Employers offering SIMPLE IRAs are obligated to either match employee salary deferrals up to 3% of compensation or offer a 2% nonelective contribution for all eligible employees, regardless of whether they make their own contributions.
 
----
 
 ### Which of the following penalties commonly applies to SEP IRAs, SIMPLE IRAs, and Traditional IRAs alike for excess contributions?
 
@@ -317,7 +311,6 @@ Through diligent study, real-world examples, and continuous referencing of IRS m
 
 > **Explanation:** Any uncorrected excess contributions generally trigger a 6% excise tax each year those amounts remain in the account. This rule is relatively consistent across Traditional IRAs, SEP IRAs, SIMPLE IRAs, and even HSAs.
 
----
 
 ### Which employer type would most likely prefer a SEP IRA over a SIMPLE IRA?
 
@@ -328,7 +321,6 @@ Through diligent study, real-world examples, and continuous referencing of IRS m
 
 > **Explanation:** SEP IRAs are often favored by smaller businesses (including sole proprietors) that want to make larger contributions on behalf of employees but do not necessarily want employees to defer their own compensation. SIMPLE IRAs require employee deferrals and employer matching or nonelective contributions, but typically have lower total contribution ceilings.
 
----
 
 ### An individual under age 59½ withdraws $2,000 from their HSA for nonmedical expenses. What tax implications would apply?
 
@@ -339,7 +331,6 @@ Through diligent study, real-world examples, and continuous referencing of IRS m
 
 > **Explanation:** Nonqualified HSA withdrawals made before the age of 65 are included in gross income and subject to a 20% penalty, not the 10% penalty that ordinarily applies to IRAs or qualified plans.
 
----
 
 ### True or False: A SIMPLE IRA plan cannot be established by an employer with more than 100 employees.
 

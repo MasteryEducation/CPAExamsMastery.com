@@ -200,7 +200,6 @@ If MNO Partnership has a Section 754 election in place, the partnership makes a 
 
 > **Explanation:** The Section 754 election is made by the partnership for the entity as a whole. In contrast, choosing a foreign tax credit vs. a deduction or whether to capitalize or expense certain costs on an individual tax return typically falls under partner-level decisions.
 
----
 
 ### Which of the following best describes how a partnership’s taxable year is determined when no majority interest exists?
 
@@ -211,7 +210,6 @@ If MNO Partnership has a Section 754 election in place, the partnership makes a 
 
 > **Explanation:** If no majority interest exists, the partnership looks to the taxable year of “principal partners” (those with 5% or greater interest). If still no resolution emerges, they must adopt the least aggregate deferral method.
 
----
 
 ### An adjustment under IRC Section 743(b) generally applies in which of the following situations?
 
@@ -222,7 +220,6 @@ If MNO Partnership has a Section 754 election in place, the partnership makes a 
 
 > **Explanation:** Section 743(b) adjusts the inside basis of partnership property when the ownership of a partnership interest changes hands (including at death). It does not cover every partnership transaction, such as routine asset purchases or distributions.
 
----
 
 ### Under a Section 754 election, which of the following typically benefits the new partner?
 
@@ -233,7 +230,6 @@ If MNO Partnership has a Section 754 election in place, the partnership makes a 
 
 > **Explanation:** The election seeks to align a transferee’s inside basis with their outside basis, often allowing for a step-up in the partnership’s assets that can translate into larger depreciation deductions or lower gain upon disposition.
 
----
 
 ### Which section governs the special basis adjustment a partnership can make following certain distributions that trigger recognized gain or loss?
 
@@ -244,7 +240,6 @@ If MNO Partnership has a Section 754 election in place, the partnership makes a 
 
 > **Explanation:** Section 734(b) adjustments apply when the partnership has recognized a gain or loss in connection with a distribution. Section 743(b) adjustments occur upon sale or exchange of an interest or upon a partner’s death.
 
----
 
 ### Once a Section 754 election is made, which of the following statements is true?
 
@@ -255,7 +250,6 @@ If MNO Partnership has a Section 754 election in place, the partnership makes a 
 
 > **Explanation:** The Section 754 election is a permanent ongoing election and impacts all subsequent distributions and interest transfers, remaining in effect unless the IRS grants permission to revoke it.
 
----
 
 ### Which of the following is a primary reason partnerships often choose to make a Section 754 election?
 
@@ -266,7 +260,6 @@ If MNO Partnership has a Section 754 election in place, the partnership makes a 
 
 > **Explanation:** The principal purpose is to match inside and outside basis, and thus provide a fair allocation of depreciation or future gain or loss for new partners. This helps avoid distortion of tax consequences.
 
----
 
 ### In a partnership where multiple sales of partnership interests are likely, why might a Section 754 election be advantageous?
 
@@ -277,7 +270,6 @@ If MNO Partnership has a Section 754 election in place, the partnership makes a 
 
 > **Explanation:** If frequent transfers occur, maintaining accurate inside basis adjustments prevents distortions for each new partner. The partnership can avoid having mismatches that compound with each transfer.
 
----
 
 ### If a partnership does not properly attach a Section 754 election statement to its timely filed return, what might be the consequence?
 
@@ -288,7 +280,6 @@ If MNO Partnership has a Section 754 election in place, the partnership makes a 
 
 > **Explanation:** Failure to attach the election statement on time typically invalidates the election for that year, forcing the partnership to wait another year or seek special relief.
 
----
 
 ### True or False: A partnership’s choice of tax year and its Section 754 election are both examples of partner-level elections.
 

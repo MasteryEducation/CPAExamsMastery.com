@@ -180,7 +180,6 @@ Determining whether to issue a single combined report or separate reports for th
 
 > **Explanation:** A combined report merges the financial statements opinion and the internal control opinion into a single document presented to external stakeholders.
 
----
 
 ### Which of the following is an advantage of issuing separate reports for financial statements and ICFR?
 
@@ -191,7 +190,6 @@ Determining whether to issue a single combined report or separate reports for th
 
 > **Explanation:** Separate reports allow the auditor to focus specifically on each engagement. However, they do require clear cross-referencing to be compliant with integrated audit standards.
 
----
 
 ### In a combined (single) report, what is the typical approach to presenting opinions on financial statements and ICFR?
 
@@ -202,7 +200,6 @@ Determining whether to issue a single combined report or separate reports for th
 
 > **Explanation:** Generally, a combined report presents the financial statement opinion and the ICFR opinion in separate paragraphs within one cohesive document.
 
----
 
 ### When issuing two separate reports, cross-referencing is used primarily to ensure:
 
@@ -213,7 +210,6 @@ Determining whether to issue a single combined report or separate reports for th
 
 > **Explanation:** Cross-referencing clarifies that the auditor’s engagements for financial statements and ICFR were part of one integrated audit process.
 
----
 
 ### Which standard provides guidance on referencing integrated audits in separate reports?
 
@@ -224,7 +220,6 @@ Determining whether to issue a single combined report or separate reports for th
 
 > **Explanation:** PCAOB AS 3320 (formerly AS 5 and updated/renumbered in PCAOB codification) offers guidelines on referencing integrated audits, although other standards may also be relevant.
 
----
 
 ### In the context of internal control opinions, referencing the COSO “Internal Control—Integrated Framework” ensures:
 
@@ -235,7 +230,6 @@ Determining whether to issue a single combined report or separate reports for th
 
 > **Explanation:** COSO is recognized as the standard framework for designing, implementing, and evaluating internal control systems. Referencing it gives readers clarity on the assessment basis.
 
----
 
 ### What is one disadvantage of using a single, combined report?
 
@@ -246,7 +240,6 @@ Determining whether to issue a single combined report or separate reports for th
 
 > **Explanation:** Combined formats can be less convenient for those who want only one of the two opinions and prefer not to navigate a single report covering both.
 
----
 
 ### When preparing a separate report on ICFR, which of the following elements must be included?
 
@@ -257,7 +250,6 @@ Determining whether to issue a single combined report or separate reports for th
 
 > **Explanation:** The auditor’s ICFR report makes explicit mention of management’s responsibility references to the COSO framework, among other required elements.
 
----
 
 ### Best practice in a combined (single) report includes:
 
@@ -268,7 +260,6 @@ Determining whether to issue a single combined report or separate reports for th
 
 > **Explanation:** Even in a single report, clarity is paramount. Separating sections for each opinion while noting their integrated nature helps the reader navigate content effectively.
 
----
 
 ### True or False: PCAOB standards mandate that the auditor must always issue a single combined report on financial statements and internal control.
 

@@ -238,7 +238,6 @@ flowchart TB
 
 > **Explanation:** A refundable credit allows a taxpayer to receive a refund if the credit amount exceeds their total tax liability, resulting in a liability below zero. Nonrefundable credits can reduce liability to zero but do not lead to a refund beyond that point.
 
----
 
 ### What portion of the American Opportunity Tax Credit (AOTC) is generally refundable?
 
@@ -249,7 +248,6 @@ flowchart TB
 
 > **Explanation:** The AOTC is partially refundable at 40%, up to $1,000 per eligible student, meaning taxpayers can receive a refund if their total credit exceeds their tax liability.
 
----
 
 ### Which of the following is a fully refundable tax credit?
 
@@ -260,7 +258,6 @@ flowchart TB
 
 > **Explanation:** The Earned Income Tax Credit (EITC) is fully refundable, allowing taxpayers to receive the remaining credit amount as a refund if it exceeds their tax liability.
 
----
 
 ### For the Child Tax Credit, which requirement must a child meet in order to qualify?
 
@@ -271,7 +268,6 @@ flowchart TB
 
 > **Explanation:** One major eligibility requirement is that the child must meet the residency, citizenship, and relationship tests, which include being a U.S. citizen, U.S. national, or resident alien who lives with the taxpayer for at least half of the year.
 
----
 
 ### Which of the following statements is true about the Lifetime Learning Credit (LLC)?
 
@@ -282,7 +278,6 @@ flowchart TB
 
 > **Explanation:** The LLC is a nonrefundable credit, meaning it cannot reduce tax liability below zero. It also has no limit on the number of years it may be claimed, unlike the AOTC.
 
----
 
 ### What happens if your tax liability is reduced to zero before the Child Tax Credit is fully used?
 
@@ -293,7 +288,6 @@ flowchart TB
 
 > **Explanation:** Once the nonrefundable portion of the CTC reduces liability to zero, you may be eligible for a refundable element (the Additional Child Tax Credit), depending on your earned income and the rules for the specific tax year.
 
----
 
 ### A taxpayer whose total investment income exceeds the annual threshold generally:
 
@@ -304,7 +298,6 @@ flowchart TB
 
 > **Explanation:** One key requirement for claiming the EITC is that the taxpayer’s investment income must not exceed a specific threshold (which is adjusted annually). Exceeding this threshold disqualifies the taxpayer from claiming EITC.
 
----
 
 ### If your nonrefundable credits exceed your tax liability, how can you benefit from the unused portion of the credit?
 
@@ -315,7 +308,6 @@ flowchart TB
 
 > **Explanation:** Nonrefundable credits cannot create a refund once the liability is zero. The unused portion is lost unless there is a specific carryforward allowed by the code, but many of the general nonrefundable personal credits do not have indefinite carryforwards.
 
----
 
 ### A taxpayer has $400 in tax liability and qualifies for a $1,500 refundable credit. How much of the credit, if any, may be refunded?
 
@@ -326,7 +318,6 @@ flowchart TB
 
 > **Explanation:** A refundable credit can reduce tax liability to zero and produce a refund for the remainder. In this case, $400 offsets the liability, leaving $1,100 to be refunded.
 
----
 
 ### True or False: Both the Child Tax Credit and the Earned Income Tax Credit have portions or provisions that may be refundable, allowing taxpayers to receive money back if the credit exceeds their tax liability.
 

@@ -173,7 +173,6 @@ This case underscores why understanding and planning for built-in gains and pote
 
 > **Explanation:** The built-in gains tax prevents corporations from escaping C corp taxation on gains accrued before the S election. It specifically targets assets held during the C corp period if those gains are realized within the recognition period.
 
----
 
 ### What is the primary significance of the recognition period related to built-in gains?
 
@@ -184,7 +183,6 @@ This case underscores why understanding and planning for built-in gains and pote
 
 > **Explanation:** Once the recognition period ends (commonly five years, historically ten), asset sales are no longer subject to built-in gains tax at the corporate level on previously appreciated assets.
 
----
 
 ### Which of the following types of income is generally considered passive investment income for an S corporation?
 
@@ -195,7 +193,6 @@ This case underscores why understanding and planning for built-in gains and pote
 
 > **Explanation:** Interest, dividends, rent, and royalties are classic forms of passive investment income. Active trade or business income is not considered passive.
 
----
 
 ### If an S corporation has accumulated E&P from its C corp years and consistently reports passive investment income exceeding 25% of gross receipts for three consecutive years, which consequence may follow?
 
@@ -206,7 +203,6 @@ This case underscores why understanding and planning for built-in gains and pote
 
 > **Explanation:** If an S corporation with accumulated E&P surpasses the 25% threshold of passive investment income for three consecutive years, the S election can be revoked, forcing the entity into C corporation status.
 
----
 
 ### When an S corporation distributes cash to shareholders, which account is normally reduced first?
 
@@ -217,7 +213,6 @@ This case underscores why understanding and planning for built-in gains and pote
 
 > **Explanation:** Tax-free distributions typically come out of AAA first, reducing the shareholder’s stock basis (provided sufficient basis exists). If AAA is depleted, distributions generally come from E&P, which are taxed as dividends.
 
----
 
 ### If the S corporation’s AAA is exhausted and it still has pre-S E&P, future distributions are generally:
 
@@ -228,7 +223,6 @@ This case underscores why understanding and planning for built-in gains and pote
 
 > **Explanation:** Once AAA is reduced to zero, distributions are treated as coming from E&P, which means they will generally be taxed as dividends to the shareholder.
 
----
 
 ### During the recognition period, how is the “economic gain” from an asset sale allocated between built-in gain and additional appreciation?
 
@@ -239,7 +233,6 @@ This case underscores why understanding and planning for built-in gains and pote
 
 > **Explanation:** If an asset appreciated before the S election, that portion is subject to built-in gains tax (up to the fair market value on the S-election date). Appreciation after conversion is taxed only at the shareholder level under S corporation passthrough rules.
 
----
 
 ### Which of the following can reduce the net recognized built-in gain subject to the built-in gains tax?
 
@@ -250,7 +243,6 @@ This case underscores why understanding and planning for built-in gains and pote
 
 > **Explanation:** Some tax attributes, such as pre-S NOLs (subject to limitations), can offset recognized built-in gain for BIG tax purposes, reducing the corporation’s overall tax liability at the entity level.
 
----
 
 ### Which statement accurately describes how distributions are taxed when an S corporation has both AAA and E&P?
 
@@ -261,7 +253,6 @@ This case underscores why understanding and planning for built-in gains and pote
 
 > **Explanation:** Under the ordering rules, distributions apply first to AAA (tax-free to shareholders, assuming sufficient stock basis). Any excess distribution comes from E&P, usually resulting in dividend taxation.
 
----
 
 ### The built-in gains tax is designed to prevent:
 

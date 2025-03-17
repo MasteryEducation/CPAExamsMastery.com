@@ -149,7 +149,6 @@ This flowchart helps illustrate how an integrated audit may lead to either combi
 
 > **Explanation:** A combined audit report helps stakeholders by presenting both financial statement and internal control opinions in a single report, making it easier to understand how the two audits are interlinked.
 
----
 
 ### Why might an entity choose to issue separate reports for financial statements and internal control?
 
@@ -160,7 +159,6 @@ This flowchart helps illustrate how an integrated audit may lead to either combi
 
 > **Explanation:** When timing differences arise— for instance, the financial statement audit is finished but ICFR work remains—the entity might choose to issue the financial statement report first, and the internal control report later.
 
----
 
 ### In a separate report on ICFR, how do auditors typically inform users about the financial statement audit?
 
@@ -171,7 +169,6 @@ This flowchart helps illustrate how an integrated audit may lead to either combi
 
 > **Explanation:** Each report typically has a paragraph referencing the other, letting users know there is an integrated approach even if the reports are separate.
 
----
 
 ### How does an integrated audit approach benefit both the auditor and the client?
 
@@ -182,7 +179,6 @@ This flowchart helps illustrate how an integrated audit may lead to either combi
 
 > **Explanation:** An integrated approach avoids redundant procedures by simultaneously generating evidence for the financial statements and internal control effectiveness.
 
----
 
 ### Which is NOT generally a reason for issuing separate reports on financial statements and internal control?
 
@@ -193,7 +189,6 @@ This flowchart helps illustrate how an integrated audit may lead to either combi
 
 > **Explanation:** Internal controls have a direct bearing on the reliability of financial statements. Issuing separate reports does not negate their importance or connection to financial reporting.
 
----
 
 ### What key paragraph would you expect to see if financial statements and ICFR reports are issued separately?
 
@@ -204,7 +199,6 @@ This flowchart helps illustrate how an integrated audit may lead to either combi
 
 > **Explanation:** The reference paragraph ensures clarity about the other report’s existence and scope.
 
----
 
 ### Which standard specifically governs the form of the auditor’s report for issuers concerning internal control?
 
@@ -215,7 +209,6 @@ This flowchart helps illustrate how an integrated audit may lead to either combi
 
 > **Explanation:** PCAOB AS 3101 addresses the form and content of the auditor’s report for issuers, including how to handle references to an ICFR audit.
 
----
 
 ### In a separate report scenario, what potential complication might arise if the release dates differ significantly?
 
@@ -226,7 +219,6 @@ This flowchart helps illustrate how an integrated audit may lead to either combi
 
 > **Explanation:** If a major subsequent event arises after the financial statement opinion but before the ICFR report, the auditor may need to revisit the financial statement opinion or reference this new information in the ICFR report.
 
----
 
 ### Which of these is a best practice for ensuring clarity when issuing combined or separate reports?
 
@@ -237,7 +229,6 @@ This flowchart helps illustrate how an integrated audit may lead to either combi
 
 > **Explanation:** Planning and coordination ensure that both management and the auditor maintain clarity around scope, timelines, referencing, and final distribution of reports.
 
----
 
 ### True or False: If separate audit reports on financial statements and internal control are issued, there is no need for the auditor to cross-reference or mention one in the other.
 

@@ -207,7 +207,6 @@ Explanation:
 
 > **Explanation:** Deferral shifts the gain into the replacement property, postponing recognition until a future taxable event, not eliminating it.
 
----
 
 ### Which of the following describes a potential benefit of rolling deferred gains forward in multiple 1031 exchanges?
 
@@ -218,7 +217,6 @@ Explanation:
 
 > **Explanation:** Rolling deferred gains forward can help conserve cash for reinvestment. However, the gain remains recognized eventually, and basis tracking is still crucial.
 
----
 
 ### A taxpayer completes a like-kind exchange and defers $200,000 of gain. Which of the following actions could trigger the recognition of that deferred gain sooner than planned?
 
@@ -229,7 +227,6 @@ Explanation:
 
 > **Explanation:** Once the taxpayer sells the replacement property in a taxable transaction, the deferred gain is triggered, alongside any new appreciation.
 
----
 
 ### When might it be most advantageous for a taxpayer to defer gain recognition?
 
@@ -240,7 +237,6 @@ Explanation:
 
 > **Explanation:** Deferral is particularly appealing when there is an opportunity to use those funds for further investment or operational expansion before any tax liability is settled.
 
----
 
 ### Which of the following is a key consideration when property owners rely on deferral techniques like Section 1031 to pass wealth and minimize taxes?
 
@@ -251,7 +247,6 @@ Explanation:
 
 > **Explanation:** Deferral can lead to a step-up in basis upon death and can allow appreciation over time, but it is not an absolute guarantee of permanent gain avoidance, nor does it remove recapture potential.
 
----
 
 ### What is one potential downside of deferring gains repeatedly through multiple 1031 transactions?
 
@@ -262,7 +257,6 @@ Explanation:
 
 > **Explanation:** While deferral can be advantageous, repeatedly rolling over appreciating assets commingles and grows deferred gains, which can result in a significant eventual tax liability.
 
----
 
 ### A taxpayer who uses a property for business can potentially defer gains under Section 1031 and then convert the property to a personal residence. Which of the following statements is most accurate?
 
@@ -273,7 +267,6 @@ Explanation:
 
 > **Explanation:** Conversion from business to residential use involves detailed rules. If not done in compliance with 1031 holding periods, the deferred gain may be realized. Basis tracking remains crucial.
 
----
 
 ### Which strategy might help a taxpayer reduce the impact of a future recognized gain?
 
@@ -284,7 +277,6 @@ Explanation:
 
 > **Explanation:** If the taxpayer has existing capital losses or NOLs, using them in the same year as the recognized gain can mitigate tax costs.
 
----
 
 ### In a Section 1033 involuntary conversion, the deferral of gain is typically contingent upon:
 
@@ -295,7 +287,6 @@ Explanation:
 
 > **Explanation:** Involuntary conversions permit deferral if the proceeds are reinvested in qualified property within a specified time (usually two to three years).
 
----
 
 ### The term “deferral” in taxation means:
 

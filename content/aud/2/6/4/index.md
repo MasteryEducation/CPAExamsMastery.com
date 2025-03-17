@@ -182,7 +182,6 @@ A manufacturing client’s preliminary numbers showed profit before taxes at \$1
 
 > **Explanation:** Auditors first select the most relevant benchmark—such as pre-tax income or total assets—and then use a percentage to establish overall materiality.
 
----
 
 ### Which of the following represents a correct statement about performance materiality?
 - [ ] It must always be higher than overall materiality.  
@@ -192,7 +191,6 @@ A manufacturing client’s preliminary numbers showed profit before taxes at \$1
 
 > **Explanation:** Performance materiality is deliberately set lower than overall materiality to provide a buffer and lessen the possibility that uncorrected or undetected errors aggregate to exceed overall materiality.
 
----
 
 ### A misstatement is considered qualitatively material if it:
 - [x] Conceals fraud or changes a net loss into a net profit.  
@@ -202,7 +200,6 @@ A manufacturing client’s preliminary numbers showed profit before taxes at \$1
 
 > **Explanation:** Qualitative materiality considers elements such as fraud, illegal acts, or masking of trends—even if the dollar amount is small.
 
----
 
 ### How might performance materiality be allocated among specific accounts?
 - [ ] Equally across all accounts without distinction.  
@@ -212,7 +209,6 @@ A manufacturing client’s preliminary numbers showed profit before taxes at \$1
 
 > **Explanation:** Auditors frequently reduce thresholds for high-risk areas, ensuring that potential errors in those accounts do not individually or collectively exceed overall materiality.
 
----
 
 ### If the preliminary net income estimate significantly changes during the audit, auditors should:
 - [x] Adjust materiality calculations and possibly modify their testing scope.  
@@ -222,7 +218,6 @@ A manufacturing client’s preliminary numbers showed profit before taxes at \$1
 
 > **Explanation:** Auditors revisit and revise materiality if the underlying benchmark changes significantly, which may alter the scope of testing.
 
----
 
 ### Tolerable misstatement is another term that is most closely associated with:
 - [ ] Overall materiality.  
@@ -232,7 +227,6 @@ A manufacturing client’s preliminary numbers showed profit before taxes at \$1
 
 > **Explanation:** Tolerable misstatement is a concept closely related to performance materiality and is effectively managed at the individual account or area level.
 
----
 
 ### Small misstatements can be material if:
 - [x] They involve non-compliance with laws or have significant qualitative impact.  
@@ -242,7 +236,6 @@ A manufacturing client’s preliminary numbers showed profit before taxes at \$1
 
 > **Explanation:** Even small errors can be material if they have significant qualitative implications, such as concealing regulatory violations or impacting key performance metrics.
 
----
 
 ### Setting performance materiality too high may:
 - [ ] Ensure a thorough and complete audit.  
@@ -252,7 +245,6 @@ A manufacturing client’s preliminary numbers showed profit before taxes at \$1
 
 > **Explanation:** If performance materiality is too high, multiple small errors could go undetected, cumulatively exceeding the overall materiality threshold.
 
----
 
 ### When communicating a revised materiality to top management, the auditor:
 - [x] Explains reasons for the change and the potential impacts on audit scope.  
@@ -262,7 +254,6 @@ A manufacturing client’s preliminary numbers showed profit before taxes at \$1
 
 > **Explanation:** Transparency is crucial; the auditor should detail why materiality was changed and how that affects the audit plan.
 
----
 
 ### An auditor who reduces materiality mid-audit typically does so because:
 - [x] New financial data indicates a shift in the chosen benchmark or assumptions.  

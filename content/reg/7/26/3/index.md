@@ -252,7 +252,6 @@ Careful planning ensures you select the best combination of accounts, considerin
 
 > **Explanation:** HSAs have a triple tax advantage: contributions are tax-deductible (or pre-tax through payroll), earnings grow tax-deferred, and distributions for qualified medical expenses are tax-free. Non-qualified withdrawals before age 65 generally incur a 20% penalty.
 
----
 
 ### Which statement accurately summarizes the “use it or lose it” rule for FSAs?
 
@@ -263,7 +262,6 @@ Careful planning ensures you select the best combination of accounts, considerin
 
 > **Explanation:** A key limitation of FSAs is that any unspent funds remaining at the plan year's end (or after a limited grace/carryover period) may be forfeited. This rule does not apply to HSAs.
 
----
 
 ### Which of the following retirement accounts typically allows for the highest pre-tax contribution limits?
 
@@ -274,7 +272,6 @@ Careful planning ensures you select the best combination of accounts, considerin
 
 > **Explanation:** While Traditional and Roth IRAs have lower annual limits (e.g., $6k–$7k for many taxpayers), 401(k), 403(b), and 457 plans often permit substantially higher annual contributions.
 
----
 
 ### An individual, age 50 or older, making catch-up contributions to a 401(k) is:
 
@@ -285,7 +282,6 @@ Careful planning ensures you select the best combination of accounts, considerin
 
 > **Explanation:** Tax law permits individuals aged 50 or older to contribute a “catch-up” amount in addition to the regular annual maximum to several types of retirement plans, including 401(k)s.
 
----
 
 ### HSA distributions for non-medical expenses after age 65 are generally:
 
@@ -296,7 +292,6 @@ Careful planning ensures you select the best combination of accounts, considerin
 
 > **Explanation:** Once an individual is 65 or older, non-medical distributions from HSAs are taxed like distributions from a Traditional IRA (ordinary income) but without the 20% penalty.
 
----
 
 ### Which best describes a key difference between a Traditional IRA and a Roth IRA?
 
@@ -307,7 +302,6 @@ Careful planning ensures you select the best combination of accounts, considerin
 
 > **Explanation:** Traditional IRAs often allow for tax-deductible contributions depending on income levels and coverage by workplace plans. Roth IRAs are funded with after-tax dollars, but qualified withdrawals are tax-free.
 
----
 
 ### If a taxpayer enrolls in both a Health FSA and a Dependent Care FSA, which of the following is true?
 
@@ -318,7 +312,6 @@ Careful planning ensures you select the best combination of accounts, considerin
 
 > **Explanation:** Health FSAs and Dependent Care FSAs have distinct contribution limits, and their funds cannot be interchanged. Each one must be used exclusively for its respective qualifying expenses.
 
----
 
 ### One primary advantage of a cafeteria plan (which includes most employer-sponsored FSAs) is:
 
@@ -329,7 +322,6 @@ Careful planning ensures you select the best combination of accounts, considerin
 
 > **Explanation:** Cafeteria plan contributions, such as those made to FSAs, are typically excluded from taxable wages for both federal income and FICA tax calculations—leading to more immediate tax savings for employees.
 
----
 
 ### A key benefit for individuals who open an HSA but do not use the funds immediately for medical expenses is:
 
@@ -340,7 +332,6 @@ Careful planning ensures you select the best combination of accounts, considerin
 
 > **Explanation:** HSA balances can roll over from year to year, and many custodians allow account holders to invest HSA contributions. This enables the funds to grow tax-free until used for qualified medical expenses.
 
----
 
 ### The tax treatment for Traditional 401(k) contributions is best explained as:
 

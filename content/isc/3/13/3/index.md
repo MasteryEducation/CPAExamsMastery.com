@@ -291,7 +291,6 @@ Stay current on emerging technologies such as machine learning and natural langu
 
 > **Explanation:** Semi-structured data is partially organized (often in a hierarchical or tag-based format) but not rigidly confined to tables and rows. JSON and XML logs are common examples.
 
----
 
 ### Which of the following is NOT typically considered a characteristic of structured data?
 
@@ -302,7 +301,6 @@ Stay current on emerging technologies such as machine learning and natural langu
 
 > **Explanation:** Structured data adheres to well-defined schemas enforced by relational databases. Free-form text without a schema is generally unstructured or semi-structured.
 
----
 
 ### In a CPA firm’s forensic investigation, the logs from an online store are stored in JSON. Why is this data classified as semi-structured?
 
@@ -313,7 +311,6 @@ Stay current on emerging technologies such as machine learning and natural langu
 
 > **Explanation:** JSON logs have a flexible tag-based format that does not rely on the rigid rows/columns of relational systems, making them semi-structured.
 
----
 
 ### Which of the following best illustrates unstructured data?
 
@@ -324,7 +321,6 @@ Stay current on emerging technologies such as machine learning and natural langu
 
 > **Explanation:** Emails (with or without images, file attachments, etc.) are classic examples of unstructured data due to their variable, free-form content.
 
----
 
 ### What is one primary benefit of employing role-based access controls (RBAC) for unstructured data repositories?
 
@@ -335,7 +331,6 @@ Stay current on emerging technologies such as machine learning and natural langu
 
 > **Explanation:** RBAC enforces security by assigning permissions based on organizational roles, preventing unauthorized users from accessing sensitive data.
 
----
 
 ### Over-indexing in structured data environments can lead to which negative outcome?
 
@@ -346,7 +341,6 @@ Stay current on emerging technologies such as machine learning and natural langu
 
 > **Explanation:** While indexes can speed up reads, excessive indexing can slow down updates and inserts because each index must be maintained whenever data is written.
 
----
 
 ### When indexing large JSON files, which factor is most critical for performance?
 
@@ -357,7 +351,6 @@ Stay current on emerging technologies such as machine learning and natural langu
 
 > **Explanation:** JSON logs often feature nested structures, and each field must be parsed before indexing. The time and resources required for parsing can impact performance significantly.
 
----
 
 ### What is a key challenge in working with unstructured data?
 
@@ -368,7 +361,6 @@ Stay current on emerging technologies such as machine learning and natural langu
 
 > **Explanation:** Unstructured data varies widely in format (emails, PDFs, images, audio, etc.), requiring more complex techniques such as NLP or OCR to make it searchable and analyzable.
 
----
 
 ### A manufacturing company wants to store maintenance reports, some in PDF form and others as JSON logs. Which approach most effectively manages both formats?
 
@@ -379,7 +371,6 @@ Stay current on emerging technologies such as machine learning and natural langu
 
 > **Explanation:** PDFs require a text-based search solution that can handle free-form content, while JSON logs can be handled efficiently by a NoSQL or document-based database that can manage dynamic fields.
 
----
 
 ### True or False: Under-indexing can negatively impact query performance when dealing with large transactional datasets.
 

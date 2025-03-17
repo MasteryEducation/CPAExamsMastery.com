@@ -218,7 +218,6 @@ In this scenario, the shift from recourse to nonrecourse financing effectively r
 
 > **Explanation:** Recourse debt that is personally guaranteed by a partner increases that partner’s at-risk amount because the partner bears the true economic risk of loss if the partnership defaults.
 
----
 
 ### Under the at-risk rules, a partner’s potential loss deductions are limited to:
 
@@ -229,7 +228,6 @@ In this scenario, the shift from recourse to nonrecourse financing effectively r
 
 > **Explanation:** The at-risk rules limit deductions to the amount of actual economic risk borne by the taxpayer, which can include cash contributions, property contributions, and recourse debt for which the partner is personally liable.
 
----
 
 ### Converting recourse financing to nonrecourse typically has what effect on a partner’s at-risk amount?
 
@@ -240,7 +238,6 @@ In this scenario, the shift from recourse to nonrecourse financing effectively r
 
 > **Explanation:** When recourse debt is replaced with nonrecourse debt, the partner no longer faces personal exposure, reducing their at-risk amount and potentially limiting their ability to deduct losses.
 
----
 
 ### What is a common pitfall when using too much nonrecourse financing in a partnership or LLC?
 
@@ -251,7 +248,6 @@ In this scenario, the shift from recourse to nonrecourse financing effectively r
 
 > **Explanation:** Nonrecourse debt does not increase a partner’s personal exposure, thereby reducing the at-risk amount that supports current loss deductions.
 
----
 
 ### In the context of passive activity loss (PAL) rules, which factor is crucial beyond having sufficient at-risk basis?
 
@@ -262,7 +258,6 @@ In this scenario, the shift from recourse to nonrecourse financing effectively r
 
 > **Explanation:** Even if the partner has enough at-risk basis, passive losses are generally limited unless the partner meets the material participation tests or the activity qualifies for certain exceptions.
 
----
 
 ### When a partner personally guarantees a partnership liability, that debt is generally considered:
 
@@ -273,7 +268,6 @@ In this scenario, the shift from recourse to nonrecourse financing effectively r
 
 > **Explanation:** A personal guarantee typically makes the debt recourse to the guaranteeing partner, who thus bears the true economic risk of loss.
 
----
 
 ### In a multi-partner scenario, which statement best describes a recourse liability?
 
@@ -284,7 +278,6 @@ In this scenario, the shift from recourse to nonrecourse financing effectively r
 
 > **Explanation:** Per Treasury Regulations, recourse liabilities are allocated specifically to those who bear the risk of having to repay the debt if the entity defaults, rather than automatically split by ownership percentage or capital accounts.
 
----
 
 ### Which of the following would not typically increase a partner’s at-risk amount?
 
@@ -295,7 +288,6 @@ In this scenario, the shift from recourse to nonrecourse financing effectively r
 
 > **Explanation:** A cash distribution generally lowers a partner’s capital account and often reduces the at-risk amount, whereas contributions, income allocations, or assuming recourse debt generally increase it.
 
----
 
 ### What key characteristic differentiates “qualified nonrecourse financing” from standard nonrecourse debt for at-risk purposes?
 
@@ -306,7 +298,6 @@ In this scenario, the shift from recourse to nonrecourse financing effectively r
 
 > **Explanation:** Qualified nonrecourse financing relates mostly to real estate, where specific IRS guidelines permit certain nonrecourse loans to be treated as at-risk for the borrower, thus increasing or maintaining at-risk amounts.
 
----
 
 ### True or False: Merely signing a “bad boy” guarantee for a partnership loan will always transform that debt into recourse for at-risk purposes.
 

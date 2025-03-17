@@ -228,7 +228,6 @@ This logic tree helps auditors navigate whether a disclosure or an emphasis-of-m
 
 > **Explanation:** A change in accounting principle occurs when an entity adopts a new accounting policy or principle that differs from one used previously. This usually requires retrospective application if the change is material.
 
----
 
 ### When an entity adjusts the estimated useful life of a machine due to new technological developments, which type of change has occurred?
 
@@ -239,7 +238,6 @@ This logic tree helps auditors navigate whether a disclosure or an emphasis-of-m
 
 > **Explanation:** Changing the useful life of an asset is a typical example of a change in accounting estimate, which is generally accounted for prospectively.
 
----
 
 ### Which document provides authoritative guidance on the consistency of financial statements for auditors?
 
@@ -250,7 +248,6 @@ This logic tree helps auditors navigate whether a disclosure or an emphasis-of-m
 
 > **Explanation:** AU-C Section 708 specifically addresses the auditor's responsibilities when a change in accounting principle affects the consistency of financial statements.
 
----
 
 ### How are most changes in accounting principle required to be reflected in the financial statements under U.S. GAAP?
 
@@ -261,7 +258,6 @@ This logic tree helps auditors navigate whether a disclosure or an emphasis-of-m
 
 > **Explanation:** Under FASB ASC 250, changes in accounting principle typically require retrospective application if material, ensuring comparability across periods.
 
----
 
 ### Which of the following would generally require an emphasis-of-matter paragraph if materially affecting comparability?
 
@@ -272,7 +268,6 @@ This logic tree helps auditors navigate whether a disclosure or an emphasis-of-m
 
 > **Explanation:** Both a material change in principle and a material error correction can prompt an emphasis-of-matter paragraph to highlight the lack of comparability and explain the significance of the change to financial statement users.
 
----
 
 ### What is the main difference between a change in accounting estimate and a correction of an error?
 
@@ -283,7 +278,6 @@ This logic tree helps auditors navigate whether a disclosure or an emphasis-of-m
 
 > **Explanation:** A change in accounting estimate occurs when new information becomes available, whereas an error correction arises from a flaw in applying accounting principles or inaccuracies in previous periods.
 
----
 
 ### Under which circumstances might the auditor choose to issue an emphasis-of-matter paragraph regarding consistency?
 
@@ -294,7 +288,6 @@ This logic tree helps auditors navigate whether a disclosure or an emphasis-of-m
 
 > **Explanation:** Auditors typically include an emphasis-of-matter paragraph for significant changes in accounting principles and restatements of prior periods, as these matters can affect the comparability of the financial statements.
 
----
 
 ### If a material error is discovered in the prior year’s financial statements that were previously issued, the appropriate treatment is:
 
@@ -305,7 +298,6 @@ This logic tree helps auditors navigate whether a disclosure or an emphasis-of-m
 
 > **Explanation:** A material error generally requires restating and redisclosing previous financial statements so that they are not misleading for financial statement users.
 
----
 
 ### Why is it essential for an auditor to distinguish an error from a change in estimate?
 
@@ -316,7 +308,6 @@ This logic tree helps auditors navigate whether a disclosure or an emphasis-of-m
 
 > **Explanation:** The appropriate accounting treatment and the presentation in financial statements differ significantly between an error correction (retrospective) and a change in accounting estimate (prospective).
 
----
 
 ### Properly accounted-for changes in accounting principles that are material to the comparability of financial statements typically require what effect on the auditor’s opinion?
 
