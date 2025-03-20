@@ -122,7 +122,7 @@ Below is a simplified Mermaid diagram showing how zero-trust validation might fu
 ```mermaid
 flowchart LR
     A["User/Device Attempts <br/> Access Request"] --> B["Zero-Trust <br/> Policy Engine"]
-    B --> C[ "Authentication & <br/> Authorization Checks" ]
+    B --> C["Authentication & <br/> Authorization Checks"]
     C --> D["Resources <br/> (Applications, Data)"]
     B --> E["Monitoring <br/> & Logs"]
     E --> C
@@ -285,17 +285,3 @@ Together, these approaches aim to preserve data confidentiality, integrity, and 
 {{< /quizdown >}}
 
 --------------------------------------------------------------------------------
-
-## For Additional Practice and Deeper Preparation
-
-### [Information Systems and Controls (ISC)](https://www.udemy.com/course/isc-cpa-mock-exams/?referralCode=E1217303222935C5E464)
-
-**Information Systems and Controls (ISC) CPA Mocks:** 6 Full (1,500 Qs), Harder Than Real! In-Depth & Clear. Crush With Confidence! 
-
-- Tackle full-length mock exams designed to mirror real ISC questions.  
-- Refine your exam-day strategies with detailed, step-by-step solutions for every scenario.  
-- Explore in-depth rationales that reinforce higher-level concepts, giving you an edge on test day.  
-- Boost confidence and minimize anxiety by mastering every corner of the ISC blueprint.  
-- Perfect for those seeking exceptionally hard mocks and real-world readiness.  
-
-_Disclaimer: This course is not endorsed by or affiliated with the AICPA, NASBA, or any official CPA Examination authority. All content is for educational and preparatory purposes only._
